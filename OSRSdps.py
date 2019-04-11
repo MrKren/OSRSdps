@@ -1,6 +1,8 @@
 from tkinter import *
 from PIL import Image, ImageTk
 from math import floor
+import requests
+from bs4 import BeautifulSoup
 
 
 class Window(Frame):
@@ -11,6 +13,7 @@ class Window(Frame):
         self.init_window()
 
     def init_window(self):
+        """Main widget window"""
         self.master.title("OSRS DPS Calculator by MrKren")  # Sets title
 
         """Menu Bar"""
@@ -28,6 +31,7 @@ class Window(Frame):
 
         Label(self.lookup, text="Player name").grid(column=1, row=1)
         Entry(self.lookup, textvariable=self.player_name, width=12).grid(column=2, row=1, columnspan=2)
+        Button(self.lookup, text="Lookup", command=self.look_up).grid(column=1, row=2, columnspan=3, pady=5)
 
         """Skill Inputs"""
         self.player_stats = Frame(self.master)
@@ -81,7 +85,37 @@ class Window(Frame):
 
         """"""
 
+    def look_up(self):
+        """Collects players data from RuneScape HiScores webpage"""
+        url = "http://services.runescape.com/m=hiscore_oldschool/hiscorepersonal.ws?user1="
+        self.player_name.set(self.player_name.get().replace(" ", "_"))
+        url = url + self.player_name.get()
+        print("Sending request to:")
+        print(url)
+        page = requests.get(url).text
+        soup = BeautifulSoup(page, 'html.parser')
+        table = soup.find('div', {'id': 'contentHiscores'})
+        table_rows = table.find_all('tr')
+        table_data = []
+        for i in table_rows:
+            data = i.find_all('td')
+            table_data.append(data)
+        for j in range(4, 11):
+            data = table_data[j][3]
+            data = str(data)
+            data = data[18:-5]
+            table_data[j][3] = data
+        self.attack_num.set(table_data[4][3])
+        self.strength_num.set(table_data[5][3])
+        self.defence_num.set(table_data[6][3])
+        self.hitpoints_num.set(table_data[7][3])
+        self.range_num.set(table_data[8][3])
+        self.prayer_num.set(table_data[9][3])
+        self.magic_num.set(table_data[10][3])
+        self.calc_combat()
+
     def calc_combat(self):
+        """Calculates combat level based off stats inputted"""
         base = 0.25*floor(self.defence_num.get() + self.hitpoints_num.get() + floor(self.prayer_num.get()/2))
         melee = 0.325*(self.attack_num.get() + self.strength_num.get())
         ranged = 0.325*floor(3*self.range_num.get()/2)
@@ -90,6 +124,7 @@ class Window(Frame):
         self.combat_lvl.set(final)
 
     def make_image(self, frame, image_name, image_pos):
+        """makes images in tkinter"""
         load = Image.open(image_name)
         render = ImageTk.PhotoImage(load)
 
@@ -103,7 +138,7 @@ class Window(Frame):
 
 root = Tk()
 
-root.geometry("500x300")
+root.geometry("500x400")
 
 
 app = Window(root)
