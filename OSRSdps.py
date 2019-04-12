@@ -10,9 +10,6 @@ class Window(Frame):
     def __init__(self, master=None):
         Frame.__init__(self, master)
         self.master = master
-        self.init_window()
-
-    def init_window(self):
         """Main widget window"""
         self.master.title("OSRS DPS Calculator by MrKren")  # Sets title
 
@@ -25,52 +22,100 @@ class Window(Frame):
 
         """look up"""
         self.lookup = Frame(self.master)
-        self.lookup.grid(column=1, row=1, columnspan=3)
+        self.lookup.grid(column=1, row=1, columnspan=2)
 
         self.player_name = StringVar()
 
         Label(self.lookup, text="Player name").grid(column=1, row=1)
-        Entry(self.lookup, textvariable=self.player_name, width=12).grid(column=2, row=1, columnspan=2)
-        Button(self.lookup, text="Lookup", command=self.look_up).grid(column=1, row=2, columnspan=3, pady=5)
+        Entry(self.lookup, textvariable=self.player_name, width=12).grid(column=2, row=1)
+        Button(self.lookup, text="Lookup", command=self.look_up).grid(column=1, row=2, columnspan=2, pady=5)
 
         """Skill Inputs"""
         self.player_stats = Frame(self.master)
-        self.player_stats.grid(column=1, row=2, columnspan=3)
+        self.player_stats.grid(column=1, row=2, columnspan=5)
 
         self.attack_num = IntVar(value=1)
         self.strength_num = IntVar(value=1)
         self.defence_num = IntVar(value=1)
-        self.range_num = IntVar(value=1)
+        self.ranged_num = IntVar(value=1)
         self.prayer_num = IntVar(value=1)
         self.magic_num = IntVar(value=1)
         self.hitpoints_num = IntVar(value=10)
         self.combat_lvl = IntVar(value=3)
 
-        Label(self.player_stats, text="Player Stats").grid(column=1, row=1, columnspan=3)
+        self.melee_potions = ["None", "Regular", "Super", "Zamorack Brew", "Overload (Raids)"]
+        self.melee_prayers = ["None", "5%", "10%", "15%", "Chivalry", "Piety"]
+        self.ranged_potions = ["None", "Regular", "Super", "Overload (Raids)"]
+        self.ranged_prayers = ["None", "5%", "10%", "15%", "Rigour", "Augury"]
+        self.magic_potions = ["None", "Regular", "Super", "Imbued Heart", "Overload (Raids)"]
+        self.attack_pot = StringVar(value=self.melee_potions[0])
+        self.strength_pot = StringVar(value=self.melee_potions[0])
+        self.defence_pot = StringVar(value=self.melee_potions[0])
+        self.ranged_pot = StringVar(value=self.ranged_potions[0])
+        self.magic_pot = StringVar(value=self.magic_potions[0])
+        self.attack_pray = StringVar(value=self.melee_prayers[0])
+        self.strength_pray = StringVar(value=self.melee_prayers[0])
+        self.defence_pray = StringVar(value=self.melee_prayers[0])
+        self.ranged_pray = StringVar(value=self.ranged_prayers[0])
+        self.magic_pray = StringVar(value=self.ranged_prayers[0])
+
+        Label(self.player_stats, text="Player Stats").grid(column=2, row=1)
+        Label(self.player_stats, text="Potion").grid(column=4, row=1)
+        Label(self.player_stats, text="Prayer").grid(column=5, row=1)
 
         self.make_image(self.player_stats, "graphics/Attack_icon.png", (1, 2))
         Label(self.player_stats, text="Attack").grid(column=2, row=2)
         Entry(self.player_stats, width=2, textvariable=self.attack_num).grid(column=3, row=2)
+        a_pot = OptionMenu(self.player_stats, self.attack_pot, *self.melee_potions)
+        a_pot.grid(column=4, row=2)
+        a_pot.config(width=17)
+        a_pray = OptionMenu(self.player_stats, self.attack_pray, *self.melee_prayers)
+        a_pray.grid(column=5, row=2)
+        a_pray.config(width=8)
 
         self.make_image(self.player_stats, "graphics/Strength_icon.png", (1, 3))
         Label(self.player_stats, text="Strength").grid(column=2, row=3)
         Entry(self.player_stats, width=2, textvariable=self.strength_num).grid(column=3, row=3)
+        s_pot = OptionMenu(self.player_stats, self.strength_pot, *self.melee_potions)
+        s_pot.grid(column=4, row=3)
+        s_pot.config(width=17)
+        s_pray = OptionMenu(self.player_stats, self.strength_pray, *self.melee_prayers)
+        s_pray.grid(column=5, row=3)
+        s_pray.config(width=8)
 
         self.make_image(self.player_stats, "graphics/Defence_icon.png", (1, 4))
         Label(self.player_stats, text="Defence").grid(column=2, row=4)
         Entry(self.player_stats, width=2, textvariable=self.defence_num).grid(column=3, row=4)
+        dpot = OptionMenu(self.player_stats, self.defence_pot, *self.melee_potions)
+        dpot.grid(column=4, row=4)
+        dpot.config(width=17)
+        dpray = OptionMenu(self.player_stats, self.defence_pray, *self.melee_prayers)
+        dpray.grid(column=5, row=4)
+        dpray.config(width=8)
 
         self.make_image(self.player_stats, "graphics/Ranged_icon.png", (1, 5))
         Label(self.player_stats, text="Ranged").grid(column=2, row=5)
-        Entry(self.player_stats, width=2, textvariable=self.range_num).grid(column=3, row=5)
+        Entry(self.player_stats, width=2, textvariable=self.ranged_num).grid(column=3, row=5)
+        a_pot = OptionMenu(self.player_stats, self.ranged_pot, *self.ranged_potions)
+        a_pot.grid(column=4, row=5)
+        a_pot.config(width=17)
+        a_pray = OptionMenu(self.player_stats, self.ranged_pray, *self.ranged_prayers)
+        a_pray.grid(column=5, row=5)
+        a_pray.config(width=8)
 
-        self.make_image(self.player_stats, "graphics/Prayer_icon.png", (1, 6))
-        Label(self.player_stats, text="Prayer").grid(column=2, row=6)
-        Entry(self.player_stats, width=2, textvariable=self.prayer_num).grid(column=3, row=6)
+        self.make_image(self.player_stats, "graphics/Magic_icon.png", (1, 6))
+        Label(self.player_stats, text="Magic").grid(column=2, row=6)
+        Entry(self.player_stats, width=2, textvariable=self.magic_num).grid(column=3, row=6)
+        a_pot = OptionMenu(self.player_stats, self.magic_pot, *self.magic_potions)
+        a_pot.grid(column=4, row=6)
+        a_pot.config(width=17)
+        a_pray = OptionMenu(self.player_stats, self.magic_pray, *self.ranged_prayers)
+        a_pray.grid(column=5, row=6)
+        a_pray.config(width=8)
 
-        self.make_image(self.player_stats, "graphics/Magic_icon.png", (1, 7))
-        Label(self.player_stats, text="Magic").grid(column=2, row=7)
-        Entry(self.player_stats, width=2, textvariable=self.magic_num).grid(column=3, row=7)
+        self.make_image(self.player_stats, "graphics/Prayer_icon.png", (1, 7))
+        Label(self.player_stats, text="Prayer").grid(column=2, row=7)
+        Entry(self.player_stats, width=2, textvariable=self.prayer_num).grid(column=3, row=7)
 
         self.make_image(self.player_stats, "graphics/Hitpoints_icon.png", (1, 8))
         Label(self.player_stats, text="Hitpoints").grid(column=2, row=8)
@@ -106,10 +151,10 @@ class Window(Frame):
             data = data[18:-5]
             table_data[j][3] = data
         self.attack_num.set(table_data[4][3])
-        self.strength_num.set(table_data[5][3])
-        self.defence_num.set(table_data[6][3])
+        self.strength_num.set(table_data[6][3])
+        self.defence_num.set(table_data[5][3])
         self.hitpoints_num.set(table_data[7][3])
-        self.range_num.set(table_data[8][3])
+        self.ranged_num.set(table_data[8][3])
         self.prayer_num.set(table_data[9][3])
         self.magic_num.set(table_data[10][3])
         self.calc_combat()
@@ -118,7 +163,7 @@ class Window(Frame):
         """Calculates combat level based off stats inputted"""
         base = 0.25*floor(self.defence_num.get() + self.hitpoints_num.get() + floor(self.prayer_num.get()/2))
         melee = 0.325*(self.attack_num.get() + self.strength_num.get())
-        ranged = 0.325*floor(3*self.range_num.get()/2)
+        ranged = 0.325*floor(3 * self.ranged_num.get() / 2)
         mage = 0.325*floor(3*self.magic_num.get()/2)
         final = floor(base + max((melee, ranged, mage)))
         self.combat_lvl.set(final)
