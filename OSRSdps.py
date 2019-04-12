@@ -22,7 +22,7 @@ class Window(Frame):
 
         """look up"""
         self.lookup = Frame(self.master)
-        self.lookup.grid(column=1, row=1, columnspan=2)
+        self.lookup.grid(column=1, row=1, columnspan=5)
 
         self.player_name = StringVar()
 
@@ -63,7 +63,7 @@ class Window(Frame):
         Label(self.player_stats, text="Potion").grid(column=4, row=1)
         Label(self.player_stats, text="Prayer").grid(column=5, row=1)
 
-        self.make_image(self.player_stats, "graphics/Attack_icon.png", (1, 2))
+        self.make_image(self.player_stats, "graphics/skills/Attack_icon.png", (1, 2))
         Label(self.player_stats, text="Attack").grid(column=2, row=2)
         Entry(self.player_stats, width=2, textvariable=self.attack_num).grid(column=3, row=2)
         a_pot = OptionMenu(self.player_stats, self.attack_pot, *self.melee_potions)
@@ -73,7 +73,7 @@ class Window(Frame):
         a_pray.grid(column=5, row=2)
         a_pray.config(width=8)
 
-        self.make_image(self.player_stats, "graphics/Strength_icon.png", (1, 3))
+        self.make_image(self.player_stats, "graphics/skills/Strength_icon.png", (1, 3))
         Label(self.player_stats, text="Strength").grid(column=2, row=3)
         Entry(self.player_stats, width=2, textvariable=self.strength_num).grid(column=3, row=3)
         s_pot = OptionMenu(self.player_stats, self.strength_pot, *self.melee_potions)
@@ -83,7 +83,7 @@ class Window(Frame):
         s_pray.grid(column=5, row=3)
         s_pray.config(width=8)
 
-        self.make_image(self.player_stats, "graphics/Defence_icon.png", (1, 4))
+        self.make_image(self.player_stats, "graphics/skills/Defence_icon.png", (1, 4))
         Label(self.player_stats, text="Defence").grid(column=2, row=4)
         Entry(self.player_stats, width=2, textvariable=self.defence_num).grid(column=3, row=4)
         dpot = OptionMenu(self.player_stats, self.defence_pot, *self.melee_potions)
@@ -93,7 +93,7 @@ class Window(Frame):
         dpray.grid(column=5, row=4)
         dpray.config(width=8)
 
-        self.make_image(self.player_stats, "graphics/Ranged_icon.png", (1, 5))
+        self.make_image(self.player_stats, "graphics/skills/Ranged_icon.png", (1, 5))
         Label(self.player_stats, text="Ranged").grid(column=2, row=5)
         Entry(self.player_stats, width=2, textvariable=self.ranged_num).grid(column=3, row=5)
         a_pot = OptionMenu(self.player_stats, self.ranged_pot, *self.ranged_potions)
@@ -103,7 +103,7 @@ class Window(Frame):
         a_pray.grid(column=5, row=5)
         a_pray.config(width=8)
 
-        self.make_image(self.player_stats, "graphics/Magic_icon.png", (1, 6))
+        self.make_image(self.player_stats, "graphics/skills/Magic_icon.png", (1, 6))
         Label(self.player_stats, text="Magic").grid(column=2, row=6)
         Entry(self.player_stats, width=2, textvariable=self.magic_num).grid(column=3, row=6)
         a_pot = OptionMenu(self.player_stats, self.magic_pot, *self.magic_potions)
@@ -113,11 +113,11 @@ class Window(Frame):
         a_pray.grid(column=5, row=6)
         a_pray.config(width=8)
 
-        self.make_image(self.player_stats, "graphics/Prayer_icon.png", (1, 7))
+        self.make_image(self.player_stats, "graphics/skills/Prayer_icon.png", (1, 7))
         Label(self.player_stats, text="Prayer").grid(column=2, row=7)
         Entry(self.player_stats, width=2, textvariable=self.prayer_num).grid(column=3, row=7)
 
-        self.make_image(self.player_stats, "graphics/Hitpoints_icon.png", (1, 8))
+        self.make_image(self.player_stats, "graphics/skills/Hitpoints_icon.png", (1, 8))
         Label(self.player_stats, text="Hitpoints").grid(column=2, row=8)
         Entry(self.player_stats, width=2, textvariable=self.hitpoints_num).grid(column=3, row=8)
 
@@ -128,7 +128,11 @@ class Window(Frame):
         Entry(self.player_stats, width=3, textvariable=self.combat_lvl).grid(column=3, row=10)
         Label(self.player_stats, text="Combat Level").grid(column=2, row=10)
 
-        """"""
+        """Equipment Section 1"""
+        equip1 = Equipment(self.master, "Equipment Set 1")
+        equip1.frame.grid(column=6, row=1, padx=50, rowspan=10)
+        equip1 = Equipment(self.master, "Equipment Set 2")
+        equip1.frame.grid(column=7, row=1, rowspan=10)
 
     def look_up(self):
         """Collects players data from RuneScape HiScores webpage"""
@@ -181,9 +185,52 @@ class Window(Frame):
         exit()
 
 
+class Equipment(object):
+
+    def __init__(self, master, equip_num):
+        self.frame = Frame(master)
+        self.set_num = Label(self.frame, text=equip_num).grid(column=1, row=1, columnspan=3)
+
+        head_slot = self.make_image_button(self.frame, "graphics/slots/Head_slot.png")
+        head_slot.grid(column=2, row=2, pady=5, padx=5)
+
+        cape_slot = self.make_image_button(self.frame, "graphics/slots/Cape_slot.png")
+        cape_slot.grid(column=1, row=3, pady=5, padx=5)
+        neck_slot = self.make_image_button(self.frame, "graphics/slots/Neck_slot.png")
+        neck_slot.grid(column=2, row=3, pady=5, padx=5)
+        ammo_slot = self.make_image_button(self.frame, "graphics/slots/Ammo_slot.png")
+        ammo_slot.grid(column=3, row=3, pady=5, padx=5)
+
+        weapon_slot = self.make_image_button(self.frame, "graphics/slots/Weapon_slot.png")
+        weapon_slot.grid(column=1, row=4, pady=5, padx=5)
+        body_slot = self.make_image_button(self.frame, "graphics/slots/Body_slot.png")
+        body_slot.grid(column=2, row=4, pady=5, padx=5)
+        shield_slot = self.make_image_button(self.frame, "graphics/slots/Shield_slot.png")
+        shield_slot.grid(column=3, row=4, pady=5, padx=5)
+
+        legs_slot = self.make_image_button(self.frame, "graphics/slots/Legs_slot.png")
+        legs_slot.grid(column=2, row=5, pady=5, padx=5)
+
+        gloves_slot = self.make_image_button(self.frame, "graphics/slots/Gloves_slot.png")
+        gloves_slot.grid(column=1, row=6, pady=5, padx=5)
+        boots_slot = self.make_image_button(self.frame, "graphics/slots/Boots_slot.png")
+        boots_slot.grid(column=2, row=6, pady=5, padx=5)
+        ring_slot = self.make_image_button(self.frame, "graphics/slots/Ring_slot.png")
+        ring_slot.grid(column=3, row=6, pady=5, padx=5)
+
+    def make_image_button(self, frame, image_name):
+        """makes images in tkinter"""
+        load = Image.open(image_name)
+        render = ImageTk.PhotoImage(load)
+
+        img = Button(frame, image=render)
+        img.image = render
+        return img
+
+
 root = Tk()
 
-root.geometry("500x400")
+root.geometry("1000x400")
 
 
 app = Window(root)
