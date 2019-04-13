@@ -1,4 +1,6 @@
 from tkinter import *
+from tkinter.ttk import *
+from tkinter_extras import *
 from PIL import Image, ImageTk
 from math import floor
 import requests
@@ -66,50 +68,50 @@ class Window(Frame):
         self.make_image(self.player_stats, "graphics/skills/Attack_icon.png", (1, 2))
         Label(self.player_stats, text="Attack").grid(column=2, row=2)
         Entry(self.player_stats, width=2, textvariable=self.attack_num).grid(column=3, row=2)
-        a_pot = OptionMenu(self.player_stats, self.attack_pot, *self.melee_potions)
-        a_pot.grid(column=4, row=2)
+        a_pot = OptionMenu(self.player_stats, self.attack_pot, self.melee_potions[0], *self.melee_potions)
+        a_pot.grid(column=4, row=2)  # Note this the option menu from ttk not tkinter
         a_pot.config(width=17)
-        a_pray = OptionMenu(self.player_stats, self.attack_pray, *self.melee_prayers)
+        a_pray = OptionMenu(self.player_stats, self.attack_pray, self.melee_prayers[0], *self.melee_prayers)
         a_pray.grid(column=5, row=2)
         a_pray.config(width=8)
 
         self.make_image(self.player_stats, "graphics/skills/Strength_icon.png", (1, 3))
         Label(self.player_stats, text="Strength").grid(column=2, row=3)
         Entry(self.player_stats, width=2, textvariable=self.strength_num).grid(column=3, row=3)
-        s_pot = OptionMenu(self.player_stats, self.strength_pot, *self.melee_potions)
+        s_pot = OptionMenu(self.player_stats, self.strength_pot, self.melee_potions[0], *self.melee_potions)
         s_pot.grid(column=4, row=3)
         s_pot.config(width=17)
-        s_pray = OptionMenu(self.player_stats, self.strength_pray, *self.melee_prayers)
+        s_pray = OptionMenu(self.player_stats, self.strength_pray, self.melee_prayers[0], *self.melee_prayers)
         s_pray.grid(column=5, row=3)
         s_pray.config(width=8)
 
         self.make_image(self.player_stats, "graphics/skills/Defence_icon.png", (1, 4))
         Label(self.player_stats, text="Defence").grid(column=2, row=4)
         Entry(self.player_stats, width=2, textvariable=self.defence_num).grid(column=3, row=4)
-        dpot = OptionMenu(self.player_stats, self.defence_pot, *self.melee_potions)
+        dpot = OptionMenu(self.player_stats, self.defence_pot, self.melee_potions[0], *self.melee_potions)
         dpot.grid(column=4, row=4)
         dpot.config(width=17)
-        dpray = OptionMenu(self.player_stats, self.defence_pray, *self.melee_prayers)
+        dpray = OptionMenu(self.player_stats, self.defence_pray, self.melee_prayers[0], *self.melee_prayers)
         dpray.grid(column=5, row=4)
         dpray.config(width=8)
 
         self.make_image(self.player_stats, "graphics/skills/Ranged_icon.png", (1, 5))
         Label(self.player_stats, text="Ranged").grid(column=2, row=5)
         Entry(self.player_stats, width=2, textvariable=self.ranged_num).grid(column=3, row=5)
-        a_pot = OptionMenu(self.player_stats, self.ranged_pot, *self.ranged_potions)
+        a_pot = OptionMenu(self.player_stats, self.ranged_pot, self.ranged_potions[0], *self.ranged_potions)
         a_pot.grid(column=4, row=5)
         a_pot.config(width=17)
-        a_pray = OptionMenu(self.player_stats, self.ranged_pray, *self.ranged_prayers)
+        a_pray = OptionMenu(self.player_stats, self.ranged_pray, self.ranged_prayers[0], *self.ranged_prayers)
         a_pray.grid(column=5, row=5)
         a_pray.config(width=8)
 
         self.make_image(self.player_stats, "graphics/skills/Magic_icon.png", (1, 6))
         Label(self.player_stats, text="Magic").grid(column=2, row=6)
         Entry(self.player_stats, width=2, textvariable=self.magic_num).grid(column=3, row=6)
-        a_pot = OptionMenu(self.player_stats, self.magic_pot, *self.magic_potions)
+        a_pot = OptionMenu(self.player_stats, self.magic_pot, self.magic_potions[0], *self.magic_potions)
         a_pot.grid(column=4, row=6)
         a_pot.config(width=17)
-        a_pray = OptionMenu(self.player_stats, self.magic_pray, *self.ranged_prayers)
+        a_pray = OptionMenu(self.player_stats, self.magic_pray, self.ranged_prayers[0], *self.ranged_prayers)
         a_pray.grid(column=5, row=6)
         a_pray.config(width=8)
 
@@ -129,6 +131,7 @@ class Window(Frame):
         Label(self.player_stats, text="Combat Level").grid(column=2, row=10)
 
         """Equipment Section 1"""
+
         equip1 = Equipment(self.master, "Equipment Set 1")
         equip1.frame.grid(column=6, row=1, padx=50, rowspan=10)
         equip1 = Equipment(self.master, "Equipment Set 2")
@@ -223,9 +226,23 @@ class Equipment(object):
         load = Image.open(image_name)
         render = ImageTk.PhotoImage(load)
 
-        img = Button(frame, image=render)
+        img = Button(frame, image=render, command=lambda: EquipSelect(["Sword", "Bow", "Axe"]))
         img.image = render
         return img
+
+
+class EquipSelect(object):
+
+    def __init__(self, slot):
+        self.window = Tk()
+        self.window.title("Equipment select")
+        self.window.geometry("165x80")
+
+        self.choice = AutocompleteCombobox(self.window)
+        self.choice.set_completion_list(slot)
+        self.choice.grid(column=1, row=1, pady=10, padx=10)
+
+        Button(self.window, text="Confirm").grid(column=1, row=2)
 
 
 root = Tk()
