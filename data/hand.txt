@@ -1,0 +1,127 @@
+Dragon gloves,9,9,9,5,9,9,9,9,5,9,9,0,0,0
+Black gloves,5,5,5,3,5,5,5,5,3,5,5,0,0,0
+Blue spiky vambs,0,0,0,-10,9,4,3,5,4,0,2,0,0,0
+Bracelet of clay,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Castle wars bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chaos gauntlets,2,2,2,0,0,8,9,7,0,0,2,0,0,0
+Cooking gauntlets,2,2,2,0,0,8,9,7,0,0,2,0,0,0
+Crab claw,0,0,0,0,0,3,4,2,0,0,1,0,0,0
+Diamond bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emerald bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghostly gloves,0,0,0,2,0,0,0,0,2,0,0,0,0,0
+Gloves of silence,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Gold bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goldsmith gauntlets,2,2,2,0,0,8,9,7,0,0,2,0,0,0
+Ice gloves,0,0,0,0,0,0,3,4,0,2,0,0,0,0
+Infinity gloves,0,0,0,5,0,0,0,0,5,0,0,0,0,0
+Inoculation bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karamja gloves 1,1,1,1,1,1,1,1,1,1,1,1,0,0,0
+Karamja gloves 2,1,1,1,1,1,1,1,1,1,1,1,0,0,0
+Klank's gauntlets,2,2,2,0,0,8,9,7,0,0,2,0,0,0
+Mime gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Onyx bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate's hook,0,0,0,0,0,1,5,3,0,0,0,0,0,0
+Regen bracelet,8,8,8,3,7,6,6,6,3,6,7,0,0,0
+Ruby bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skeleton gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Slayer gloves,0,0,0,0,0,4,5,3,0,0,0,0,0,0
+Snakeskin vambraces,0,0,0,-5,6,2,2,2,1,0,0,0,0,0
+Leather gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Barrows gloves,12,12,12,6,12,12,12,12,6,12,12,0,0,0
+Red d'hide vamb,0,0,0,-10,10,5,4,6,6,0,0,0,0,0
+Black d'hide vamb,0,0,0,-10,11,6,5,7,8,0,0,0,0,0
+Green d'hide vamb,0,0,0,-10,8,3,2,4,2,0,0,0,0,0
+Steel gloves,4,4,4,2,4,4,4,4,2,4,4,0,0,0
+Iron gloves,3,3,3,2,3,3,3,3,2,3,3,0,0,0
+Karamja gloves 3,1,1,1,1,1,1,1,1,1,1,1,0,0,0
+Bronze gloves,2,2,2,1,2,2,2,2,1,2,2,0,0,0
+Splitbark gauntlets,0,0,0,2,-1,3,2,4,2,0,0,0,0,0
+Rune gloves,8,8,8,4,8,8,8,8,4,8,8,0,0,0
+Karamja gloves 4,1,1,1,1,1,1,1,1,1,1,1,0,0,0
+Blue d'hide vamb,0,0,0,-10,9,4,3,5,4,0,0,0,0,0
+Steel gauntlets,2,2,2,0,0,8,9,7,0,0,2,0,0,0
+Black spiky vambs,0,0,0,-10,11,6,5,7,8,0,2,0,0,0
+Mithril gloves,6,6,6,3,6,6,6,6,3,6,6,0,0,0
+Leather vambraces,0,0,0,0,4,2,2,1,0,0,0,0,0,0
+Adamant gloves,7,7,7,4,7,7,7,7,4,7,7,0,0,0
+Sapphire bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Abyssal bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,1
+Mystic gloves (light),0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Void knight gloves,0,0,0,0,0,6,6,6,4,6,0,0,0,0
+Ham gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Spined gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Rock-shell gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Graceful gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lunar gloves,0,0,0,4,-1,2,1,1,2,0,0,0,0,0
+Fremennik gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Skeletal gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Rogue gloves,0,0,0,0,0,2,2,2,2,2,0,0,0,0
+Saradomin bracers,0,0,0,-10,11,6,5,7,8,0,0,0,0,1
+Guthix bracers,0,0,0,-10,11,6,5,7,8,0,0,0,0,1
+Red spiky vambs,0,0,0,-10,10,5,4,6,6,0,2,0,0,0
+Mourner gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Mystic gloves (dark),0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Hardleather gloves,1,1,1,1,1,1,1,1,1,1,1,0,0,0
+Crabclaw hook,0,0,0,0,0,3,5,3,0,0,1,0,0,0
+Dragonstone bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zombie gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moonclan gloves,0,0,0,2,-5,2,2,2,2,-5,0,0,0,0
+Green spiky vambs,0,0,0,-10,8,3,2,4,2,0,2,0,0,0
+Villager armband (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager armband (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager armband (yellow),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager armband (pink),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purple gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Ancient bracers,0,0,0,-10,11,6,5,7,8,0,0,0,0,1
+Armadyl bracers,0,0,0,-10,11,6,5,7,8,0,0,0,0,1
+Bandos bracers,0,0,0,-10,11,6,5,7,8,0,0,0,0,1
+Mystic gloves,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Spiky vambraces,0,0,0,0,4,2,2,1,0,0,2,0,0,0
+Santa gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antisanta gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cow gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grey gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Red gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Yellow gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Teal gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Gravedigger gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shayzien gloves (1),0,0,0,-1,0,0,0,1,-1,0,0,0,0,0
+Shayzien gloves (2),0,0,1,-1,0,0,0,1,-1,0,1,0,0,0
+Shayzien gloves (3),0,0,2,-1,0,0,0,1,-1,0,2,0,0,0
+Shayzien gloves (4),0,0,2,-1,0,0,1,2,-1,1,2,0,0,0
+Shayzien gloves (5),0,0,2,-1,0,0,2,3,-1,2,3,0,0,0
+Bunny paws,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zenyte bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clue hunter gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Samurai gloves,2,2,2,2,2,3,3,3,3,3,0,0,0,0
+Mummy's hands,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankou gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gloves of darkness,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Ranger gloves,0,0,0,-10,11,1,2,1,2,0,0,0,0,0
+Holy wraps,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Dark tuxedo cuffs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Light tuxedo cuffs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Warm gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Expeditious bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opal bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jade bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Topaz bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bracelet of slaughter,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flamtaer bracelet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mining gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superior mining gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Expert mining gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Granite gloves,5,5,9,-3,-1,8,8,8,-3,5,7,0,0,0
+Bracelet of ethereum,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snow imp costume gloves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ferocious gloves,16,16,16,-16,-16,0,0,0,0,0,14,0,0,0
+Mystic gloves (dusk),0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Ornate gloves,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+Zamorak bracers,0,0,0,-10,11,6,5,7,8,0,0,0,0,1
+3rd age vambraces,0,0,0,-10,11,6,5,7,9,0,0,0,0,0
+Tormented bracelet,0,0,0,10,0,0,0,0,0,0,0,0,5,2
+Penance gloves,0,0,0,0,0,0,3,4,0,2,0,0,0,0
+Combat bracelet,7,7,7,3,7,5,5,5,3,5,6,0,0,0
+Gilded d'hide vambs,0,0,0,-10,8,3,2,4,2,0,0,0,0,0
+Tormented bracelet (or),0,0,0,10,0,0,0,0,0,0,0,0,5,2

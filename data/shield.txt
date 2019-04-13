@@ -1,0 +1,201 @@
+Bronze defender,3,2,1,-3,-2,3,2,1,-3,-2,0,0,0,0
+Bronze kiteshield,0,0,0,-8,-2,5,7,6,-1,6,0,0,0,0
+Iron kiteshield,0,0,0,-8,-2,8,10,9,-1,9,0,0,0,0
+Iron sq shield,0,0,0,-6,-2,8,9,7,0,8,0,0,0,0
+Dragon sq shield,0,0,0,-6,-2,50,52,48,0,50,0,0,0,0
+Steel defender,7,6,5,-3,-2,7,6,5,-3,-2,1,0,0,0
+Steel sq shield,0,0,0,-6,-2,12,13,11,0,12,0,0,0,0
+Black kiteshield,0,0,0,-8,-2,17,19,18,-1,18,0,0,0,0
+Black defender,9,8,7,-3,-2,9,8,7,-3,-2,2,0,0,0
+Adamant defender,13,12,11,-3,-2,13,12,11,-3,-2,4,0,0,0
+Adamant kiteshield,0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (g),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Anti-dragon shield,0,0,0,0,0,7,9,8,2,8,0,0,0,0
+Iron defender,5,4,3,-3,-2,5,4,3,-3,-2,0,0,0,0
+Mithril defender,10,9,8,-3,-2,10,9,8,-3,-2,3,0,0,0
+Mithril kiteshield,0,0,0,-8,-2,18,22,20,-1,20,0,0,0,0
+Mithril sq shield,0,0,0,-6,-2,17,19,15,0,17,0,0,0,0
+Rune kiteshield,0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (g),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (t),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Crystal shield,0,0,0,-10,-10,0,0,0,0,0,0,0,0,0
+Elemental shield,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+Fremennik shield (The Fremennik Isles),0,0,0,-10,-10,17,17,31,-4,33,0,0,0,0
+Fremennik shield,0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Granite shield,0,0,0,-12,-8,40,42,38,0,65,0,0,0,0
+Bug lantern,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mage's book,0,0,0,15,0,0,0,0,15,0,0,0,0,0
+Mirror shield,0,0,0,0,0,10,15,5,5,10,0,0,0,0
+Toktz-ket-xil,0,0,0,-12,-8,40,42,38,0,65,5,0,0,0
+Training shield,0,0,0,0,0,4,5,3,1,4,0,0,0,0
+White kiteshield,0,0,0,-8,-2,17,19,18,-1,18,0,0,0,1
+Zamorak kiteshield,0,0,0,-8,-2,44,48,46,-1,46,0,0,0,1
+Wooden shield,0,0,0,0,0,4,5,3,1,4,0,0,0,0
+Book of balance,4,4,4,4,4,4,4,4,4,4,0,0,0,5
+Gilded kiteshield,0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune defender,20,19,18,-3,-2,20,19,18,-3,-2,5,0,0,0
+Dragonfire shield,0,0,0,-10,-5,0,0,0,0,0,7,0,0,0
+Rune sq shield,0,0,0,-6,-2,38,40,36,0,38,0,0,0,0
+Holy book,0,0,0,0,0,8,8,8,8,8,0,0,0,5
+Saradomin kiteshield,0,0,0,-8,-2,44,48,46,-1,46,0,0,0,1
+Unholy book,8,8,8,8,8,0,0,0,0,0,0,0,0,5
+Mind shield,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Dragon defender,25,24,23,-3,-2,25,24,23,-3,-2,6,0,0,0
+Dragon kiteshield,0,0,0,-8,-2,56,60,58,-1,58,0,0,0,0
+Black sq shield,0,0,0,-6,-2,15,16,14,0,15,0,0,0,0
+Black shield (h2),0,0,0,-8,-2,17,19,18,-1,18,0,0,0,0
+White sq shield,0,0,0,-6,-2,15,16,14,0,15,0,0,0,1
+Adamant shield (h3),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Rune shield (h1),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune shield (h2),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune shield (h3),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune shield (h4),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune shield (h5),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Guthix kiteshield,0,0,0,-8,-2,44,48,46,-1,46,0,0,0,1
+Decorative shield (gold),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Decorative shield (white),0,0,0,-8,-2,18,22,20,-1,20,0,0,0,0
+Decorative shield (red),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Plain satchel,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black satchel,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gold satchel,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black kiteshield (t),0,0,0,-8,-2,17,19,18,-1,18,0,0,0,0
+Wooden shield (Weapons rack),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Malediction ward,-8,-8,-8,12,-12,50,52,48,15,0,0,0,0,0
+Odium ward,-12,-12,-12,-8,12,0,0,0,24,52,0,0,0,0
+Adamant shield (h1),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant shield (h4),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant shield (h2),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Black shield (h4),0,0,0,-8,-2,17,19,18,-1,18,0,0,0,0
+Black shield (h3),0,0,0,-8,-2,17,19,18,-1,18,0,0,0,0
+Black shield (h1),0,0,0,-8,-2,17,19,18,-1,18,0,0,0,0
+Black kiteshield (g),0,0,0,-8,-2,17,19,18,-1,18,0,0,0,0
+Defensive shield,0,0,0,-6,-2,8,9,7,0,7,0,0,0,0
+Armadyl kiteshield,0,0,0,-8,-2,44,48,46,-1,46,0,0,0,1
+Ancient kiteshield,0,0,0,-8,-2,44,48,46,-1,46,0,0,0,1
+Mithril kiteshield (t),0,0,0,-8,-2,18,22,20,-1,20,0,0,0,0
+Iron kiteshield (t),0,0,0,-8,-2,8,10,9,-1,9,0,0,0,0
+Iron kiteshield (g),0,0,0,-8,-2,8,10,9,-1,9,0,0,0,0
+Briefcase,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bronze kiteshield (t),0,0,0,-8,-2,5,7,6,-1,6,0,0,0,0
+Bronze kiteshield (g),0,0,0,-8,-2,5,7,6,-1,6,0,0,0,0
+Mithril kiteshield (g),0,0,0,-8,-2,18,22,20,-1,20,0,0,0,0
+Dragon sq shield (g),0,0,0,-6,-2,50,52,48,0,50,0,0,0,0
+Book of war,0,0,0,0,0,0,0,0,0,0,2,0,0,5
+Spirit shield,0,0,0,0,0,39,41,50,1,45,0,0,0,1
+Odium ward (or),-12,-12,-12,-8,12,0,0,0,24,52,0,0,0,0
+Malediction ward (or),-8,-8,-8,12,-12,50,52,48,15,0,0,0,0,0
+Elysian spirit shield,0,0,0,0,0,63,65,75,2,57,0,0,0,3
+Arcane spirit shield,0,0,0,20,0,53,55,73,2,52,0,0,0,3
+Spectral spirit shield,0,0,0,0,0,53,55,73,30,52,0,0,0,3
+Blessed spirit shield,0,0,0,0,0,53,55,73,2,52,0,0,0,3
+Falador shield 1,0,0,0,-8,-2,8,10,9,-1,9,0,0,0,1
+Falador shield 2,0,0,0,-8,-2,13,15,14,-1,14,0,0,0,3
+Falador shield 4,0,0,0,-8,-2,27,31,29,-1,29,0,0,0,5
+Falador shield 3,0,0,0,-8,-2,18,22,20,-1,20,0,0,0,4
+Damaged book (Bandos),0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Damaged book (Armadyl),0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Damaged book (Saradomin),0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Damaged book (Zamorak),0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Damaged book (Guthix),0,0,0,0,0,0,0,0,0,0,0,0,0,5
+3rd age kiteshield,0,0,0,-10,-4,63,65,61,-3,63,0,0,0,0
+Green satchel,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red satchel,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rune satchel,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chronicle,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cruciferous codex,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steel kiteshield (Arrav),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Asgarnia),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Dorgeshuun),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Dragon),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Fairy),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Guthix),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (HAM),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Horse),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Jogre),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Kandarin),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Misthalin),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Money),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Saradomin),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Skull),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Varrock),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (Zamorak),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Rune kiteshield (Arrav),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Asgarnia),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Dorgeshuun),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Dragon),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Fairy),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Guthix),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (HAM),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Horse),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Jogre),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Kandarin),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Misthalin),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Money),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Saradomin),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Skull),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Varrock),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Rune kiteshield (Zamorak),0,0,0,-8,-2,44,48,46,-1,46,0,0,0,0
+Wooden shield (g),0,0,0,0,0,4,5,3,1,4,0,0,0,0
+Steel kiteshield (t),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Steel kiteshield (g),0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Cabbage round shield,0,0,0,-6,-2,24,26,22,0,24,0,0,0,0
+Gilded sq shield,0,0,0,-6,-2,38,40,36,0,38,0,0,0,0
+Dragon defender (t),25,24,23,-3,-2,25,24,23,-3,-2,6,0,0,0
+Corrupted kiteshield,0,0,0,-8,-2,8,10,9,-1,9,0,0,0,0
+Magic shield,0,0,0,0,0,10,13,9,3,9,0,0,0,0
+Ancient wyvern shield,-10,-10,-10,15,-10,0,0,0,15,0,-2,0,0,0
+Runefest shield,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Broodoo shield (blue),0,0,0,3,-7,10,10,15,5,0,0,0,0,5
+Broodoo shield (orange),0,0,0,3,-7,10,10,15,5,0,0,0,0,5
+Broodoo shield (green),0,0,0,3,-7,10,10,15,5,0,0,0,0,5
+Dragonfire ward,-10,-10,-10,-10,15,0,0,0,28,0,-2,0,0,0
+Adamant kiteshield (Asgarnia),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Dorgeshuun),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Dragon),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Fairy),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Guthix),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Saradomin),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Zamorak),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (HAM),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Horse),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Jogre),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Kandarin),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Misthalin),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Money),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Skull),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant kiteshield (Varrock),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Dragon kiteshield (g),0,0,0,-8,-2,56,60,58,-1,58,0,0,0,0
+Oak shield,0,0,0,0,0,5,6,4,1,5,0,0,0,0
+Maple shield,0,0,0,0,0,7,8,6,2,7,0,0,0,0
+Yew shield,0,0,0,0,0,8,9,7,3,8,0,0,0,0
+Redwood shield,0,0,0,0,0,12,15,11,4,10,0,0,0,0
+Hard leather shield,-15,-15,-11,-10,2,8,7,7,5,9,0,0,0,0
+Snakeskin shield,-15,-15,-11,-10,3,10,9,8,7,10,0,0,0,0
+Green d'hide shield,-15,-15,-11,-10,4,14,12,11,9,11,0,0,0,0
+Blue d'hide shield,-15,-15,-11,-10,5,16,14,12,12,12,0,0,0,0
+Red d'hide shield,-15,-15,-11,-10,6,18,16,14,13,13,0,0,0,0
+Black d'hide shield,-15,-15,-11,-10,7,21,18,16,15,14,0,0,0,0
+Avernic defender,30,29,28,-5,-4,30,29,28,-5,-4,8,0,0,0
+Chicken (Recruitment Drive),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crystal shield (i),0,0,0,-10,-10,51,54,53,0,80,0,0,0,0
+Twisted buckler,-7,-8,-7,-10,18,22,24,22,26,58,0,0,0,0
+Book of darkness,0,0,0,10,0,0,0,0,0,0,0,0,0,5
+Adamant kiteshield (t),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Adamant sq shield,0,0,0,-6,-2,24,26,22,0,24,0,0,0,0
+Adamant shield (h5),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Black shield (h5),0,0,0,-8,-2,17,19,18,-1,18,0,0,0,0
+Bandos kiteshield,0,0,0,-8,-2,44,48,46,-1,46,0,0,0,1
+Book of law,0,0,0,0,10,0,0,0,0,0,0,0,0,5
+Damaged book (Ancient),0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Tome of fire,0,0,0,8,0,0,0,0,8,0,0,0,0,0
+Adamant kiteshield (Arrav),0,0,0,-8,-2,27,31,29,-1,29,0,0,0,0
+Bronze sq shield,0,0,0,-6,-2,5,6,4,0,5,0,0,0,0
+Kharedst's memoirs,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Guthix d'hide shield,-15,-15,-11,-10,7,21,18,16,15,14,0,0,0,1
+Saradomin d'hide shield,-15,-15,-11,-10,7,21,18,16,15,14,0,0,0,1
+Zamorak d'hide shield,-15,-15,-11,-10,7,21,18,16,15,14,0,0,0,1
+Ancient d'hide shield,-15,-15,-11,-10,7,21,18,16,15,14,0,0,0,1
+Armadyl d'hide shield,-15,-15,-11,-10,7,21,18,16,15,14,0,0,0,1
+Bandos d'hide shield,-15,-15,-11,-10,7,21,18,16,15,14,0,0,0,1
+Steel kiteshield,0,0,0,-8,-2,13,15,14,-1,14,0,0,0,0
+Rune defender (t),20,19,18,-3,-2,20,19,18,-3,-2,5,0,0,0

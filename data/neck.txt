@@ -1,0 +1,122 @@
+Amulet of accuracy,4,4,4,4,4,0,0,0,0,0,0,0,0,0
+Amulet of defence,0,0,0,0,0,7,7,7,7,7,0,0,0,0
+Amulet of fury,10,10,10,10,10,15,15,15,15,15,8,0,0,5
+Amulet of glory,10,10,10,10,10,3,3,3,3,3,6,0,0,3
+Amulet of glory (t),10,10,10,10,10,3,3,3,3,3,6,0,0,3
+Amulet of magic,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Amulet of magic (t),0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Amulet of nature,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amulet of power,6,6,6,6,6,6,6,6,6,6,6,0,0,1
+Amulet of strength,0,0,0,0,0,0,0,0,0,0,10,0,0,0
+10th squad sigil,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beads of the dead,1,1,1,1,1,1,1,1,1,1,1,0,0,1
+Berserker necklace,-10,-10,-10,0,0,-20,-20,-20,-20,-20,7,0,0,3
+Binding necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brass necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Camulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Catspeak amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diamond amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diamond necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emerald necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Games necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghostspeak amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gnome amulet,0,0,0,0,0,13,13,13,0,0,0,0,0,0
+Gnome scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gold amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gold necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Holy symbol,0,0,0,0,0,2,2,2,2,2,0,0,0,8
+Lunar amulet,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Onyx necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pendant of lucien,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ruby amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salve amulet (e),0,0,0,0,0,3,3,3,0,0,0,0,0,3
+Sapphire amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silver necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skills necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Witchwood icon,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+Yin yang amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salve amulet,0,0,0,0,0,3,3,3,0,0,0,0,0,3
+M'speak amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phoenix necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glarial's amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guthix stole,0,0,0,2,0,0,0,0,2,0,0,0,0,10
+Dragonstone amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hazeel's mark,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unholy symbol,2,2,2,2,2,0,0,0,0,0,0,0,0,8
+Unblessed symbol,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Onyx amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ham logo,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sapphire necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saradomin stole,0,0,0,2,0,0,0,0,2,0,0,0,0,10
+Seal of passage,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armadyl pendant,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ruby necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Void seal,0,0,0,0,0,1,1,1,1,1,0,0,0,0
+Crystal pendant,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strung rabbit foot,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Unpowered symbol,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emerald amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strength amulet (t),0,0,0,0,0,0,0,0,0,0,10,0,0,0
+Catspeak amulet(e),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zamorak stole,0,0,0,2,0,0,0,0,2,0,0,0,0,10
+Bobble scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jester scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tri-jester scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Woolly scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragon necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pre-nature amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Occult necklace,0,0,0,12,0,0,0,0,0,0,0,0,10,2
+Clean necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Salve amulet(i),0,0,0,0,0,3,3,3,0,0,0,0,0,3
+Salve amulet(ei),0,0,0,0,0,3,3,3,0,0,0,0,0,3
+Cat training medal,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armadyl stole,0,0,0,2,0,0,0,0,2,0,0,0,0,10
+Bandos stole,0,0,0,2,0,0,0,0,2,0,0,0,0,10
+Ancient stole,0,0,0,2,0,0,0,0,2,0,0,0,0,10
+Amulet of fury (or),10,10,10,10,10,15,15,15,15,15,8,0,0,5
+Amulet of the damned,10,10,10,10,10,3,3,3,3,3,6,0,0,3
+Desert amulet 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Desert amulet 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Desert amulet 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Desert amulet 4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3rd age amulet,0,0,0,15,0,0,0,0,10,0,0,0,0,0
+'perfect' necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xeric's talisman,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Necklace of anguish,0,0,0,0,15,0,0,0,0,0,0,5,0,2
+Amulet of torture,15,15,15,0,0,0,0,0,0,0,10,0,0,2
+Zenyte necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amulet of eternal glory,10,10,10,10,10,3,3,3,3,3,6,0,0,3
+Arceuus scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hosidius scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lovakengj scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Piscarilius scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shayzien scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Light bow tie,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dark bow tie,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Occult necklace (or),0,0,0,12,0,0,0,0,0,0,0,0,10,2
+Amulet of torture (or),15,15,15,0,0,0,0,0,0,0,10,0,0,2
+Burning amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Topaz amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Necklace of passage,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opal necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jade necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Topaz necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Opal amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jade amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dodgy necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Necklace of faith,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amulet of bounty,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rainbow scarf,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragonbone necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Necklace of anguish (or),0,0,0,0,15,0,0,0,0,0,0,5,0,2
+Drakan's medallion,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amulet of avarice,10,10,10,10,10,3,3,3,3,3,6,0,0,3
+Silver necklace (dusted),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clown bow tie,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bonecrusher necklace,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+Zenyte amulet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amulet of chemistry,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amulet of defence (t),0,0,0,0,0,7,7,7,7,7,0,0,0,0
+Amulet of power (t),6,6,6,6,6,6,6,6,6,6,6,0,0,1
+Digsite pendant,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Berserker necklace (or),-10,-10,-10,0,0,-20,-20,-20,-20,-20,7,0,0,3

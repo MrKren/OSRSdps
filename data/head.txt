@@ -1,0 +1,500 @@
+Helm of neitiznot,0,0,0,0,0,31,29,34,3,30,3,0,0,3
+Bronze full helm,0,0,0,-6,-2,4,5,3,-1,4,0,0,0,0
+Bronze med helm,0,0,0,-3,-1,3,4,2,-1,4,0,0,0,0
+Dragon med helm,0,0,0,-3,-1,33,35,32,-1,34,0,0,0,0
+Steel full helm,0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Dragon full helm,0,0,0,-6,-2,45,48,41,-1,46,0,0,0,0
+Adamant full helm,0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant full helm (g),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant full helm (t),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Air tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Archer helm,-5,-5,-5,-5,6,6,8,10,6,6,0,0,0,0
+Iron full helm,0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Mithril full helm,0,0,0,-6,-2,13,14,11,-1,13,0,0,0,0
+Mithril med helm,0,0,0,-3,-1,10,11,9,-1,10,0,0,0,0
+Rune full helm,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune full helm (g),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune full helm (t),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Bearhead,0,0,0,-3,-3,12,14,10,7,9,0,0,0,0
+Bedsheet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Berserker helm,0,0,0,-5,-5,31,29,33,0,30,3,0,0,0
+Blue beret,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue boater,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Body tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bomber cap,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (bowman),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (bowmaster),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Broken bark snelm,0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Brown headband,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Camel mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Camo helmet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chaos tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chef's hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coif,0,0,0,-1,2,4,6,8,4,4,0,0,0,0
+Cosmic tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crab helmet,0,0,0,-3,-1,5,4,3,-1,4,0,0,0,0
+Dark cavalier,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Death tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Desert disguise,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (dragon archer),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Earmuffs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Earth tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elemental helmet,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+Enchanted hat,0,0,0,4,0,0,0,0,4,0,0,0,0,0
+Chompy bird hat (expert dragon archer),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (expert),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (expert ogre dragon archer),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Right eye patch,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Farseer helm,-5,-5,-5,6,-5,8,10,12,6,0,0,0,0,0
+Fez,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fighter hat,5,5,5,-7,-7,27,29,26,-3,28,0,0,0,0
+Fire tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fishbowl helmet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (forester),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ghostly hood,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Gnome goggles,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gold helmet,0,0,0,0,0,0,10,20,0,10,0,0,0,0
+Graahk headdress,0,0,0,0,-1,4,5,3,0,4,0,0,0,0
+Granite helm,0,0,0,-9,-7,31,33,29,-1,39,0,0,0,0
+Green boater,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guthan's helm,0,0,0,-6,-2,55,58,54,-1,62,0,0,0,0
+Hard hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Healer hat,-5,-5,-5,6,-5,6,8,10,7,0,0,0,0,0
+Highwayman mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infinity hat,0,0,0,6,0,0,0,0,6,0,0,0,0,0
+Initiate sallet,0,0,0,-6,-2,13,14,11,-1,13,0,0,0,3
+Jack lantern mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Karil's coif,0,0,0,-1,7,6,9,12,6,10,0,0,0,0
+Khazard helmet,0,0,0,0,0,4,5,3,0,0,0,0,0,0
+Kyatt hat,0,0,0,0,-1,4,5,3,0,4,0,0,0,0
+Larupia hat,0,0,0,0,-1,4,5,3,0,1,0,0,0,0
+Law tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lunar helm,0,0,0,3,-2,8,7,10,2,0,0,0,0,0
+Chompy bird hat (marksman),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mime mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mind helmet,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+Moonclan hat,0,0,0,3,-5,3,3,3,3,-5,0,0,0,0
+Moonclan helm,0,0,0,3,-5,3,3,3,3,-5,0,0,0,0
+Mudskipper hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nature tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (ogre bowman),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (ogre bowmaster),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (ogre dragon archer),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (ogre expert),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (ogre forester),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (ogre marksman),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (ogre woodsman),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chompy bird hat (ogre yeoman),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orange boater,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate's hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Proselyte sallet,0,0,0,-6,-2,19,21,16,-1,19,0,0,0,4
+Ram skull helm,0,0,0,0,-2,19,21,16,0,19,0,0,0,0
+Red boater,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red headband,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reindeer hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rock-shell helm,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rogue mask,0,0,0,0,0,5,5,5,5,5,0,0,0,0
+Santa hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saradomin full helm,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,1
+Saradomin mitre,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Spiny helmet,0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Tan cavalier,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tyras helm,0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Void mage helm,0,0,0,0,0,6,6,6,6,6,0,0,0,0
+Warrior helm,0,5,0,-5,-5,31,33,29,0,30,0,0,0,0
+White full helm,0,0,0,-6,-2,12,13,10,-1,12,0,0,0,1
+Chompy bird hat (woodsman),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zamorak full helm,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,1
+Zamorak mitre,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Zombie mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leather cowl,0,0,0,0,1,2,3,4,2,3,0,0,0,0
+Gas mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mind tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black mask,0,0,0,-3,-1,9,10,8,-1,9,0,0,0,0
+Black med helm,0,0,0,-3,-1,9,10,8,-1,9,0,0,0,0
+Ranger hat,-5,-5,-5,-5,6,7,10,11,5,8,0,0,0,0
+Blue wizard hat,0,0,0,2,0,0,0,0,2,0,0,0,0,0
+Black full helm,0,0,0,-6,-2,12,13,10,-1,12,0,0,0,0
+Nose peg,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dwarven helmet,0,0,6,-2,-2,27,28,31,5,24,0,0,0,0
+Frog mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wizard hat,0,0,0,2,0,0,0,0,2,0,0,0,0,0
+Adamant med helm,0,0,0,-3,-1,14,15,13,-1,14,0,0,0,0
+Runner hat,0,0,0,0,0,30,32,27,1,30,0,0,0,0
+Mystic hat (dark),0,0,0,4,0,0,0,0,4,0,0,0,0,0
+Blue wizard hat (g),0,0,0,2,0,0,0,0,2,0,0,0,0,0
+Snakeskin bandana,0,0,0,-5,4,2,4,4,2,2,0,0,0,0
+Void ranger helm,0,0,0,0,0,6,6,6,6,6,0,0,0,0
+Blue wizard hat (t),0,0,0,2,0,0,0,0,2,0,0,0,0,0
+Robin hood hat,0,0,0,-10,8,4,6,8,4,4,0,0,0,0
+White beret,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black beret,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Facemask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Torag's helm,0,0,0,-6,-2,55,58,54,-1,62,0,0,0,0
+Ham hood,0,0,0,0,0,0,1,2,0,1,0,0,0,0
+Iron med helm,0,0,0,-3,-1,4,5,3,-1,4,0,0,0,0
+Steel med helm,0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+White med helm,0,0,0,-3,-1,9,10,8,-1,9,0,0,0,1
+Fremennik helm,0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Quest point hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mining helmet,0,0,0,-3,-1,4,5,3,-1,4,0,0,0,0
+Red halloween mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue halloween mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green halloween mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skeleton mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purple partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lumberjack hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lederhosen hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bunny ears,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yellow partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black h'ween mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dharok's helm,0,0,0,-3,-1,45,48,44,-1,51,0,0,0,0
+Verac's helm,0,0,0,-6,-2,55,58,54,0,56,0,0,0,3
+Spined helm,-6,-6,-6,-6,6,6,6,6,6,0,0,0,0,0
+Skeletal helm,0,0,0,2,-2,10,9,11,3,0,0,0,0,0
+Black mask (i),0,0,0,0,0,9,10,8,-1,9,0,0,0,0
+Armadyl helmet,-5,-5,-5,-5,10,6,8,10,10,8,0,0,0,1
+Void melee helm,0,0,0,0,0,6,6,6,6,6,0,0,0,0
+Saradomin coif,0,0,0,-1,7,4,7,10,4,8,0,0,0,1
+Zamorak coif,0,0,0,-1,7,4,7,10,4,8,0,0,0,1
+Guthix coif,0,0,0,-1,7,4,7,10,4,8,0,0,0,1
+Chicken head,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cap and goggles,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silly jester hat,0,0,0,0,0,0,0,0,5,-5,0,0,0,0
+Mystic hat (light),0,0,0,4,0,0,0,0,4,0,0,0,0,0
+Black partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Graceful hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rainbow partyhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bobble hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jester hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tri-jester hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Woolly hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rune helm (h1),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune helm (h2),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune helm (h3),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune helm (h4),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune helm (h5),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Guthix full helm,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,1
+Slayer helmet,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Fake beak,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Slayer helmet (i),0,0,0,3,3,30,32,27,10,30,0,0,0,0
+Decorative helm (red),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Decorative helm (gold),0,0,0,-3,-1,14,15,13,-1,14,0,0,0,0
+Decorative helm (white),0,0,0,-3,-1,10,11,9,-1,10,0,0,0,0
+Decorative armour (magic hat),0,0,0,0,0,4,4,4,4,4,0,0,0,0
+Castlewars hood (Zamorak),0,0,0,0,0,0,1,2,0,1,0,0,0,0
+Castlewars hood (Saradomin),0,0,0,0,0,0,1,2,0,1,0,0,0,0
+Black cavalier,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Agility hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Attack hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Construct. hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black full helm (g),0,0,0,-6,-2,12,13,10,-1,12,0,0,0,0
+Cooking hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crafting hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Defence hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Farming hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hitpoints hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Slayer hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strength hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ranging hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cow mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prayer hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black boater,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black headband,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hat eyepatch,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sleeping cap,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+A powdered wig,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adamant helm (h1),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant helm (h2),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant helm (h5),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant helm (h4),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant helm (h3),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Black helm (h5),0,0,0,-6,-2,12,13,10,-1,12,0,0,0,0
+Black helm (h4),0,0,0,-6,-2,12,13,10,-1,12,0,0,0,0
+Black helm (h3),0,0,0,-6,-2,12,13,10,-1,12,0,0,0,0
+Black helm (h2),0,0,0,-6,-2,12,13,10,-1,12,0,0,0,0
+Black helm (h1),0,0,0,-6,-2,12,13,10,-1,12,0,0,0,0
+Fedora,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Woodcutting hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nurse hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Doctors hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cavalier mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Firemaking hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prospector helmet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager hat (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager hat (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager hat (yellow),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager hat (pink),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Magic hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fishing hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fletching hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Runecrafting hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smithing hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thieving hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mining hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beret mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bandos full helm,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,1
+Beanie,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Goblin mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Imp mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black wizard hat (t),0,0,0,2,0,0,0,0,2,0,0,0,0,0
+White cavalier,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Royal crown,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sagacious spectacles,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armadyl full helm,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,1
+Ancient full helm,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,1
+Pith helmet,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Navy cavalier,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lava dragon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black dragon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Penguin mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leprechaun hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron dragon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Musketeer hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Afro,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Top hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Big pirate hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pink boater,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White boater,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pink headband,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue headband,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White headband,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gold headband,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black wizard hat (g),0,0,0,2,0,0,0,0,2,0,0,0,0,0
+Green dragon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue dragon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steel dragon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mithril dragon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ancient coif,0,0,0,-1,7,4,7,10,4,8,0,0,0,1
+Crier hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deerstalker,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bandos coif,0,0,0,-1,7,4,7,10,4,8,0,0,0,1
+Red beret,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armadyl coif,0,0,0,-1,7,4,7,10,4,8,0,0,0,1
+Cat mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monocle,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate hat & patch,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green headband,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red cavalier,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mithril full helm (t),0,0,0,-6,-2,13,14,11,-1,13,0,0,0,0
+Bronze full helm (g),0,0,0,-6,-2,4,5,3,-1,4,0,0,0,0
+Iron full helm (t),0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Bandos mitre,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Ancient mitre,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Armadyl mitre,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Mithril full helm (g),0,0,0,-6,-2,13,14,11,-1,13,0,0,0,0
+Pirate bandana (white),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate bandana (red),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate bandana (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate bandana (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bronze full helm (t),0,0,0,-6,-2,4,5,3,-1,4,0,0,0,0
+Dragon full helm (g),0,0,0,-6,-2,45,48,41,-1,46,0,0,0,0
+Partyhat & specs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Top hat & monocle,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Light infinity hat,0,0,0,6,0,0,0,0,6,0,0,0,0,0
+Dark infinity hat,0,0,0,6,0,0,0,0,6,0,0,0,0,0
+Druidic wreath,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saradomin halo,0,0,0,0,0,11,12,10,11,-1,0,0,0,3
+Guthix halo,0,0,0,0,0,11,12,10,11,-1,0,0,0,3
+Zamorak halo,0,0,0,0,0,11,12,10,11,-1,0,0,0,3
+Fremennik hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Mystic hat,0,0,0,4,0,0,0,0,4,0,0,0,0,0
+Pirate bandana (Trouble Brewing),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ultimate ironman helm,0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Ironman helm,0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Grim reaper hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hunter's honour,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rogue's revenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santa mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antisanta mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kandarin headgear 4,0,0,0,-3,-1,10,11,9,-1,10,0,0,0,0
+Kandarin headgear 1,0,0,0,-3,-1,4,5,3,-1,4,0,0,0,0
+Achievement diary hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kandarin headgear 2,0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Kandarin headgear 3,0,0,0,-3,-1,9,10,8,-1,9,0,0,0,0
+Chompy bird hat (yeoman),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3rd age full helmet,0,0,0,-5,-2,47,49,43,-3,48,0,0,0,0
+3rd age mage hat,0,0,0,8,0,0,0,0,8,0,0,0,0,0
+3rd age range coif,0,0,0,-2,9,4,7,10,5,8,0,0,0,0
+Tanzanite helm,0,0,0,-5,-5,0,0,0,0,0,0,0,0,0
+Magma helm,0,0,0,-5,-5,0,0,0,0,0,0,0,0,0
+Mask of balance,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Progress hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pink hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Cream hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Green hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Blue hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Music hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Angler hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Menaphite purple hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Menaphite red hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Turquoise hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Grey hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Red hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Yellow hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Teal hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Gravedigger mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saradomin max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fire max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accumulator max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zamorak max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guthix max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black santa hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inverted santa hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Xerician hat,0,0,0,3,0,0,0,0,3,0,0,0,0,0
+Shayzien helm (1),0,0,0,-5,-2,3,5,4,-1,5,0,0,0,0
+Shayzien helm (2),0,0,0,-5,-2,5,8,6,-1,7,0,0,0,0
+Shayzien helm (3),0,0,0,-6,-2,7,10,8,-2,9,0,0,0,0
+Shayzien helm (4),0,0,0,-6,-2,8,12,10,-2,11,0,0,0,0
+Shayzien helm (5),0,0,0,-6,-2,10,14,12,-2,13,0,0,0,0
+Blue tricorn hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green tricorn hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red tricorn hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brown tricorn hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black tricorn hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purple tricorn hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grey tricorn hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Farmer's strawhat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gnome child hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black slayer helmet,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Green slayer helmet,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Red slayer helmet,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Black slayer helmet (i),0,0,0,3,3,30,32,27,10,30,0,0,0,0
+Green slayer helmet (i),0,0,0,3,3,30,32,27,10,30,0,0,0,0
+Red slayer helmet (i),0,0,0,3,3,30,32,27,10,30,0,0,0,0
+Hornwood helm,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Helm of raedwald,0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Steel heraldic helm (Arrav),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Asgarnia),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Dorgeshuun),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Dragon),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Fairy),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Guthix),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (HAM),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Horse),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Jogre),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Kandarin),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Misthalin),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Money),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Saradomin),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Skull),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Varrock),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel heraldic helm (Zamorak),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Rune heraldic helm (Arrav),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Asgarnia),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Dorgeshuun),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Dragon),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Fairy),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Guthix),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (HAM),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Horse),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Jogre),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Kandarin),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Misthalin),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Money),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Saradomin),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Skull),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Rune heraldic helm (Varrock),0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Golden chef's hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Half moon spectacles,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bowl wig,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bucket helm (g),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bucket helm,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lesser demon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Greater demon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black demon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jungle demon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Old demon mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samurai kasa,0,0,0,0,0,16,17,15,4,16,0,0,0,0
+Mummy's head,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hood of darkness,0,0,0,4,0,0,0,0,4,0,0,0,0,0
+Steel full helm (g),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Steel full helm (t),0,0,0,-6,-2,9,10,7,-1,9,0,0,0,0
+Black leprechaun hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black unicorn mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+White unicorn mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gilded med helm,0,0,0,-3,-1,22,23,21,-1,22,0,0,0,0
+Cyclops head,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blacksmith's helm,0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Arceuus hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hosidius hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lovakengj hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Piscarilius hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shayzien hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Double eye patch,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fancy tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Evil chicken head,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elder chaos hood,0,0,0,5,0,0,0,0,4,0,0,0,0,0
+One barrel,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Two barrels,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Three barrels,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Four barrels,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Five barrels,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pyromancer hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ardougne max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banshee mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hardcore ironman helm,0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Corrupted helm,0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Ancestral hat,0,0,0,8,-2,12,11,13,5,0,0,0,2,0
+4th birthday hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Easter egg helm,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purple slayer helmet (i),0,0,0,3,3,30,32,27,10,30,0,0,0,0
+Purple slayer helmet,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Obsidian helmet,0,0,0,0,0,25,23,26,0,24,3,0,0,0
+Infernal max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blood'n'tar snelm (round),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Blood'n'tar snelm (pointed),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Jonas mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Imbued saradomin max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Imbued guthix max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Imbued zamorak max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shaman mask,0,0,0,-6,-2,6,7,5,-1,6,0,0,0,0
+Wise old man's santa hat,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snow imp costume head,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wrath tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Turquoise slayer helmet,0,0,0,-6,-2,30,32,27,-1,30,0,0,0,0
+Assembler max hood,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adamant heraldic helm (Arrav),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Asgarnia),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Dorgeshuun),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Dragon),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Fairy),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Guthix),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Zamorak),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Saradomin),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (HAM),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Horse),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Jogre),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Kandarin),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Misthalin),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Money),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Skull),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Adamant heraldic helm (Varrock),0,0,0,-6,-2,19,21,16,-1,19,0,0,0,0
+Myre snelm (pointed),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Myre snelm (round),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Bruise blue snelm (pointed),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Bruise blue snelm (round),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Ochre snelm (pointed),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Ochre snelm (round),0,0,0,-3,-1,7,8,6,-1,7,0,0,0,0
+Bandana eyepatch (red),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bandana eyepatch (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bandana eyepatch (white),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bandana eyepatch (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tribal mask (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tribal mask (orange),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tribal mask (green),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Justiciar faceguard,0,0,0,-6,-2,60,63,59,-6,67,0,0,0,2
+Statius's full helm,3,3,4,-6,-2,65,70,63,-1,71,3,0,0,0
+Morrigan's coif,0,0,0,-5,13,8,11,14,8,12,0,0,0,0
+Zuriel's hood,0,0,0,8,-2,20,16,22,8,0,0,0,0,0
+Astral tiara,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clown mask,0,0,0,0,0,0,0,0,0,0,0,0,0,0

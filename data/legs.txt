@@ -1,0 +1,291 @@
+Bronze plateskirt,0,0,0,-21,-7,8,7,6,-4,7,0,0,0,0
+Dragon platelegs,0,0,0,-21,-7,68,66,63,-4,65,0,0,0,0
+Steel platelegs,0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Black plateskirt,0,0,0,-21,-7,21,20,19,-4,20,0,0,0,0
+Adamant platelegs,0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Adamant platelegs (t),0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Adamant plateskirt,0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Adamant plateskirt (g),0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Adamant plateskirt (t),0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Iron platelegs,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Iron plateskirt,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Bronze platelegs,0,0,0,-21,-7,8,7,6,-4,7,0,0,0,0
+Mithril platelegs,0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Mithril plateskirt,0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Rune platelegs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Rune platelegs (t),0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Rune plateskirt,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Rune plateskirt (t),0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Steel plateskirt,0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Blue d'hide chaps,0,0,0,-10,11,25,19,27,14,25,0,0,0,0
+Builder's trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Camo bottoms,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frog-leather chaps,0,0,0,-5,2,7,7,9,4,9,0,0,0,0
+Ghostly robe (bottom),0,0,0,4,0,0,0,0,4,0,0,0,0,0
+Gilded platelegs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Gilded plateskirt,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Graahk legs,0,0,0,0,-7,11,10,10,0,10,0,0,0,0
+Granite legs,0,0,0,-31,-18,43,45,41,-4,68,0,0,0,0
+Green d'hide chaps,0,0,0,-10,8,22,16,24,8,22,0,0,0,0
+Guthan's chainskirt,0,0,0,-14,-7,75,72,73,-4,82,0,0,0,0
+Initiate cuisse,0,0,0,-21,-7,24,22,20,-4,22,0,0,0,5
+Kyatt legs,0,0,0,0,-7,11,10,10,0,10,0,0,0,0
+Larupia legs,0,0,0,0,-7,11,10,10,0,10,0,0,0,0
+Lederhosen shorts,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lunar legs,0,0,0,7,-7,20,19,23,9,0,0,0,0,0
+Moonclan skirt,0,0,0,5,-7,5,5,5,5,-7,0,0,0,0
+Penance skirt,0,0,0,-10,15,26,21,28,19,26,0,0,0,0
+Prince leggings,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Proselyte cuisse,0,0,0,-21,-7,33,31,29,-4,31,0,0,0,6
+Proselyte tasset,0,0,0,-21,-7,33,31,29,-4,31,0,0,0,6
+Rock-shell legs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Slave robe,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snakeskin chaps,0,0,0,-5,6,8,8,10,4,10,0,0,0,0
+Spined chaps,0,0,0,-10,8,22,16,24,8,22,0,0,0,0
+Splitbark legs,0,0,0,7,-7,22,20,25,10,0,0,0,0,0
+Studded chaps (g),0,0,0,-5,6,15,16,17,6,16,0,0,0,0
+Void knight robe,0,0,0,0,0,30,30,30,30,30,0,0,0,0
+White platelegs,0,0,0,-21,-7,21,20,19,-4,20,0,0,0,1
+White plateskirt,0,0,0,-21,-7,21,20,19,-4,20,0,0,0,1
+Yak-hide armour (legs),0,0,0,-5,10,25,20,15,-2,10,0,0,0,0
+Zamorak plateskirt,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Zombie trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Studded chaps,0,0,0,-5,6,15,16,17,6,16,0,0,0,0
+Plague trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black platelegs,0,0,0,-21,-7,21,20,19,-4,20,0,0,0,0
+Guthix platelegs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Black d'hide chaps,0,0,0,-10,17,31,25,33,28,31,0,0,0,0
+Red d'hide chaps,0,0,0,-10,14,28,22,30,20,28,0,0,0,0
+Monk's robe,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Priest gown (bottom),0,0,0,0,0,0,0,0,0,0,0,0,0,3
+Blue skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dharok's platelegs,0,0,0,-21,-7,85,82,83,-4,92,0,0,0,0
+Shade robe,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Desert robes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Verac's plateskirt,0,0,0,-21,-7,85,82,83,0,84,0,0,0,4
+Leather chaps,0,0,0,0,4,2,2,1,0,0,0,0,0,0
+Ham robe,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Mystic robe bottom (dark),0,0,0,15,0,0,0,0,15,0,0,0,0,0
+Pink skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Torag's platelegs,0,0,0,-21,-7,85,82,83,-4,92,0,0,0,0
+Black skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skeleton leggings,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lumberjack legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mystic robe bottom (light),0,0,0,15,0,0,0,0,15,0,0,0,0,0
+Princess skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rune platelegs (g),0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Ahrim's robeskirt,0,0,0,22,-7,33,30,36,22,0,0,0,0,0
+Skeletal bottoms,0,0,0,6,-7,22,20,24,10,0,0,0,0,0
+Robe of elidinis (bottom),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zamorak monk bottom,0,0,0,2,0,0,0,0,3,0,0,0,0,3
+Bandos tassets,0,0,0,-21,-7,71,63,66,-4,93,2,0,0,1
+Armadyl chainskirt,-6,-6,-6,-10,20,32,26,34,40,33,0,0,0,1
+Chicken legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mime legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vyrewatch legs,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Citizen trousers,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Silly jester tights,0,0,0,0,0,0,0,0,5,-5,0,0,0,0
+Zamorak robe legs,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Blue skirt (t),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Saradomin plateskirt,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Saradomin platelegs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Karil's leatherskirt,0,0,0,-10,17,26,20,28,35,33,0,0,0,0
+Graceful legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infinity bottoms,0,0,0,17,0,0,0,0,17,0,0,0,0,0
+Rogue trousers,0,0,0,0,0,7,7,7,7,7,0,0,0,0
+Saradomin chaps,0,0,0,-10,17,31,25,33,28,31,0,0,0,1
+Guthix chaps,0,0,0,-10,17,31,25,33,28,31,0,0,0,1
+Druid's robe,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+Guthix plateskirt,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Mourner trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Decorative armour (gold platelegs),0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Decorative armour (white platelegs),0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Decorative armour (red platelegs),0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Decorative armour (gold plateskirt),0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Decorative armour (white plateskirt),0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Decorative armour (red plateskirt),0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Decorative armour (magic legs),0,0,0,0,0,15,15,15,15,15,0,0,0,0
+Decorative armour (ranged legs),0,0,0,0,0,15,15,15,15,15,0,0,0,0
+Blue d'hide chaps (g),0,0,0,-10,11,25,19,27,14,25,0,0,0,0
+Saradomin robe legs,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Guthix robe legs,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Wood camo legs,0,0,0,0,-7,11,10,10,0,10,0,0,0,0
+Desert camo legs,0,0,0,0,-7,11,10,10,0,10,0,0,0,0
+Polar camo legs,0,0,0,0,-7,11,10,10,0,10,0,0,0,0
+Mystic robe bottom,0,0,0,15,0,0,0,0,15,0,0,0,0,0
+Flared trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pantaloons,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue d'hide chaps (t),0,0,0,-10,11,25,19,27,14,25,0,0,0,0
+Green d'hide chaps (g),0,0,0,-10,8,22,16,24,8,22,0,0,0,0
+Green d'hide chaps (t),0,0,0,-10,8,22,16,24,8,22,0,0,0,0
+Studded chaps (t),0,0,0,-5,6,15,16,17,6,16,0,0,0,0
+Black elegant legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prospector legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black desert robe,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Desert legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black plateskirt (t),0,0,0,-21,-7,21,20,19,-4,20,0,0,0,0
+Skirt (lilac),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skirt (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skirt (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armadyl platelegs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Ancient plateskirt,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Ancient platelegs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Bandos plateskirt,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Bandos platelegs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Red d'hide chaps (t),0,0,0,-10,14,28,22,30,20,28,0,0,0,0
+Mithril platelegs (t),0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Mithril platelegs (g),0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Iron platelegs (t),0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Musketeer pants,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black skirt (g),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black skirt (t),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Royal gown bottom,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron plateskirt (t),0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Red d'hide chaps (g),0,0,0,-10,14,28,22,30,20,28,0,0,0,0
+Armadyl chaps,0,0,0,-10,17,31,25,33,28,31,0,0,0,1
+Bandos chaps,0,0,0,-10,17,31,25,33,28,31,0,0,0,1
+Blue skirt (g),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armadyl robe legs,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Mithril plateskirt (t),0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Bronze platelegs (t),0,0,0,-21,-7,8,7,6,-4,7,0,0,0,0
+Bronze plateskirt (t),0,0,0,-21,-7,8,7,6,-4,7,0,0,0,0
+Bronze platelegs (g),0,0,0,-21,-7,8,7,6,-4,7,0,0,0,0
+Bandos robe legs,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Ancient robe legs,0,0,0,4,0,0,0,0,4,0,0,0,0,5
+Black platelegs (t),0,0,0,-21,-7,21,20,19,-4,20,0,0,0,0
+Black plateskirt (g),0,0,0,-21,-7,21,20,19,-4,20,0,0,0,0
+Black platelegs (g),0,0,0,-21,-7,21,20,19,-4,20,0,0,0,0
+Mithril plateskirt (g),0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Pirate leggings (beige),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate leggings (red),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate leggings (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pirate leggings (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armadyl plateskirt,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Dragon platelegs (g),0,0,0,-21,-7,68,66,63,-4,65,0,0,0,0
+Dragon plateskirt (g),0,0,0,-21,-7,68,66,63,-4,65,0,0,0,0
+Bronze plateskirt (g),0,0,0,-21,-7,8,7,6,-4,7,0,0,0,0
+Light infinity bottoms,0,0,0,17,0,0,0,0,17,0,0,0,0,0
+Dark infinity bottoms,0,0,0,17,0,0,0,0,17,0,0,0,0,0
+Black d'hide chaps (g),0,0,0,-10,17,31,25,33,28,31,0,0,0,0
+White elegant skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue elegant skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blue elegant legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green elegant skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green elegant legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purple elegant skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purple elegant legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red elegant skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gold elegant skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gold elegant legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pink elegant skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pink elegant legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fremennik skirt,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Ultimate ironman platelegs,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Ironman platelegs,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Santa pantaloons,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antisanta pantaloons,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cow trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morytania legs 1,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Morytania legs 2,0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Morytania legs 4,0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Morytania legs 3,0,0,0,-21,-7,24,22,20,-4,22,0,0,0,0
+Elite void robe,0,0,0,0,0,30,30,30,30,30,0,0,0,3
+3rd age platelegs,0,0,0,-25,-2,78,76,83,-5,75,0,0,0,0
+3rd age robe,0,0,0,19,0,0,0,0,19,0,0,0,0,0
+Trousers (lilac),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trousers (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shorts (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trousers (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Angler waders,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Menaphite red robe,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Menaphite purple robe,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Menaphite red kilt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Menaphite purple kilt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Turquoise robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Green robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Cream robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Pink robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Grey robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Red robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Yellow robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Teal robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Purple robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Gravedigger leggings,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anti-panties,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Deadman's legs,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Xerician robe,0,0,0,8,0,0,0,0,7,0,0,0,0,0
+Shayzien greaves (1),0,0,0,-10,-2,10,9,8,-2,10,0,0,0,0
+Shayzien greaves (2),0,0,0,-14,-3,14,13,12,-3,14,0,0,0,0
+Shayzien greaves (3),0,0,0,-17,-4,17,16,15,-3,17,0,0,0,0
+Shayzien greaves (4),0,0,0,-20,-5,20,19,18,-4,20,0,0,0,0
+Shayzien greaves (5),0,0,0,-20,-5,23,22,21,-4,23,0,0,0,0
+Blue navy slacks,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Green navy slacks,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Red navy slacks,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brown navy slacks,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Black navy slacks,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Purple navy slacks,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grey navy slacks,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Farmer's boro trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bunny legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clue hunter trousers,0,0,0,0,4,2,2,1,0,0,0,0,0,0
+Samurai greaves,0,0,0,0,0,42,40,38,3,40,0,0,0,0
+Mummy's legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ankou's leggings,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monk's robe (g),0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Steel platelegs (t),0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Steel platelegs (g),0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Steel plateskirt (g),0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Steel plateskirt (t),0,0,0,-21,-7,17,16,15,-4,16,0,0,0,0
+Light trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dark trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Elder chaos robe,0,0,0,6,0,0,0,0,6,0,0,0,0,0
+Evil chicken legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pyromancer robe,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Banshee robe,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hardcore ironman platelegs,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Corrupted platelegs,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Corrupted plateskirt,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Ancestral robe bottom,0,0,0,26,-7,27,24,30,20,0,0,0,2,0
+Obsidian platelegs,0,0,0,0,0,46,43,41,-10,40,1,0,0,0
+Snow imp costume legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager robe (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager robe (blue),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager robe (yellow),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Villager robe (pink),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shorts (yellow),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Justiciar legguards,0,0,0,-31,-17,95,92,93,-14,102,0,0,0,4
+Eggshell platelegs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vesta's plateskirt,3,5,5,-17,-4,86,100,112,-4,118,3,0,0,0
+Statius's platelegs,3,3,5,-21,-7,110,106,97,-4,121,3,0,0,0
+Morrigan's leather chaps,0,0,0,-10,23,35,29,37,46,35,0,0,0,0
+Zuriel's robe bottom,0,0,0,25,-7,38,35,44,25,0,0,0,0,0
+Clown trousers,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tree skirt,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ornate legs,0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Enchanted robe,0,0,0,15,0,0,0,0,15,0,0,0,0,0
+Jungle camo legs,0,0,0,0,-7,11,10,10,0,10,0,0,0,0
+Rune plateskirt (g),0,0,0,-21,-7,51,49,47,-4,49,0,0,0,0
+Zamorak chaps,0,0,0,-10,17,31,25,33,28,31,0,0,0,1
+Iron platelegs (g),0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Ancient chaps,0,0,0,-10,17,31,25,33,28,31,0,0,0,1
+Black d'hide chaps (t),0,0,0,-10,17,31,25,33,28,31,0,0,0,0
+Red elegant legs,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3rd age range legs,0,0,0,-10,17,31,25,33,30,31,0,0,0,0
+Blue robe bottoms,0,0,0,0,0,0,2,2,0,0,0,0,0,0
+Adamant platelegs (g),0,0,0,-21,-7,33,31,29,-4,31,0,0,0,0
+Desert robe,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zamorak platelegs,0,0,0,-21,-7,51,49,47,-4,49,0,0,0,1
+Iron plateskirt (g),0,0,0,-21,-7,11,10,10,-4,10,0,0,0,0
+Robe bottom of darkness,0,0,0,15,0,0,0,0,15,0,0,0,0,0
+Shorts (brown),0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mystic robe bottom (dusk),0,0,0,15,0,0,0,0,15,0,0,0,0,0
+Dragon plateskirt,0,0,0,-21,-7,68,66,63,-4,65,0,0,0,0
+Monk's robe (t),0,0,0,0,0,0,0,0,0,0,0,0,0,5
+Sandwich lady bottom,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leather chaps (g),0,0,0,0,4,2,2,1,0,0,0,0,0,0
+3rd age plateskirt,0,0,0,-25,-2,78,76,83,-5,75,0,0,0,0
+Rangers' tights,0,0,0,-10,15,0,0,0,0,0,0,0,0,0
+Fremennik kilt,0,0,0,-21,-7,11,10,10,-4,10,1,0,0,0
+Gilded d'hide chaps,0,0,0,-10,8,22,16,24,8,22,0,0,0,0
+3rd age druidic robe bottoms,0,0,0,0,0,0,0,0,0,0,0,0,0,6
