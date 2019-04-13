@@ -132,10 +132,10 @@ class Window(Frame):
 
         """Equipment Section 1"""
 
-        equip1 = Equipment(self.master, "Equipment Set 1")
-        equip1.frame.grid(column=6, row=1, padx=50, rowspan=10)
-        equip1 = Equipment(self.master, "Equipment Set 2")
-        equip1.frame.grid(column=7, row=1, rowspan=10)
+        self.equip1 = Equipment(self.master, "Equipment Set 1")
+        self.equip1.frame.grid(column=6, row=1, padx=50, rowspan=10)
+        self.equip2 = Equipment(self.master, "Equipment Set 2")
+        self.equip2.frame.grid(column=7, row=1, rowspan=10)
 
     def look_up(self):
         """Collects players data from RuneScape HiScores webpage"""
@@ -194,38 +194,49 @@ class Equipment(object):
         self.frame = Frame(master)
         self.set_num = Label(self.frame, text=equip_num).grid(column=1, row=1, columnspan=3)
 
-        head_slot = self.make_image_button(self.frame, "graphics/slots/Head_slot.png", "data/head.txt")
+        self.head_slot = StringVar()
+        head_slot = self.make_image_button(self.frame, "graphics/slots/Head_slot.png", "data/head.txt", self.head_slot)
         head_slot.grid(column=2, row=2, pady=5, padx=5)
 
-        cape_slot = self.make_image_button(self.frame, "graphics/slots/Cape_slot.png", "data/cape.txt")
+        self.cape_slot = StringVar()
+        cape_slot = self.make_image_button(self.frame, "graphics/slots/Cape_slot.png", "data/cape.txt", self.cape_slot)
         cape_slot.grid(column=1, row=3, pady=5, padx=5)
-        neck_slot = self.make_image_button(self.frame, "graphics/slots/Neck_slot.png", "data/neck.txt")
+        self.neck_slot = StringVar()
+        neck_slot = self.make_image_button(self.frame, "graphics/slots/Neck_slot.png", "data/neck.txt", self.neck_slot)
         neck_slot.grid(column=2, row=3, pady=5, padx=5)
-        ammo_slot = self.make_image_button(self.frame, "graphics/slots/Ammo_slot.png", "data/ammo.txt")
+        self.ammo_slot = StringVar()
+        ammo_slot = self.make_image_button(self.frame, "graphics/slots/Ammo_slot.png", "data/ammo.txt", self.ammo_slot)
         ammo_slot.grid(column=3, row=3, pady=5, padx=5)
 
-        weapon_slot = self.make_image_button(self.frame, "graphics/slots/Weapon_slot.png", "data/weapon.txt")
+        self.weapon_slot = StringVar()
+        weapon_slot = self.make_image_button(self.frame, "graphics/slots/Weapon_slot.png", "data/weapon.txt", self.weapon_slot)
         weapon_slot.grid(column=1, row=4, pady=5, padx=5)
-        body_slot = self.make_image_button(self.frame, "graphics/slots/Body_slot.png", "data/body.txt")
+        self.body_slot = StringVar()
+        body_slot = self.make_image_button(self.frame, "graphics/slots/Body_slot.png", "data/body.txt", self.body_slot)
         body_slot.grid(column=2, row=4, pady=5, padx=5)
-        shield_slot = self.make_image_button(self.frame, "graphics/slots/Shield_slot.png", "data/shield.txt")
+        self.shield_slot = StringVar()
+        shield_slot = self.make_image_button(self.frame, "graphics/slots/Shield_slot.png", "data/shield.txt", self.shield_slot)
         shield_slot.grid(column=3, row=4, pady=5, padx=5)
 
-        legs_slot = self.make_image_button(self.frame, "graphics/slots/Legs_slot.png", "data/legs.txt")
+        self.legs_slot = StringVar()
+        legs_slot = self.make_image_button(self.frame, "graphics/slots/Legs_slot.png", "data/legs.txt", self.legs_slot)
         legs_slot.grid(column=2, row=5, pady=5, padx=5)
 
-        gloves_slot = self.make_image_button(self.frame, "graphics/slots/Gloves_slot.png", "data/hand.txt")
+        self.hand_slot = StringVar()
+        gloves_slot = self.make_image_button(self.frame, "graphics/slots/Gloves_slot.png", "data/hand.txt", self.hand_slot)
         gloves_slot.grid(column=1, row=6, pady=5, padx=5)
-        boots_slot = self.make_image_button(self.frame, "graphics/slots/Boots_slot.png", "data/boot.txt")
+        self.boot_slot = StringVar()
+        boots_slot = self.make_image_button(self.frame, "graphics/slots/Boots_slot.png", "data/boot.txt", self.boot_slot)
         boots_slot.grid(column=2, row=6, pady=5, padx=5)
-        ring_slot = self.make_image_button(self.frame, "graphics/slots/Ring_slot.png", "data/ring.txt")
+        self.ring_slot = StringVar()
+        ring_slot = self.make_image_button(self.frame, "graphics/slots/Ring_slot.png", "data/ring.txt", self.ring_slot)
         ring_slot.grid(column=3, row=6, pady=5, padx=5)
 
-    def make_image_button(self, frame, image_name, filename):
+    def make_image_button(self, frame, image_name, filename, textvar):
         """makes images in tkinter"""
         load = Image.open(image_name)
         render = ImageTk.PhotoImage(load)
-        img = Button(frame, image=render, command=lambda: EquipSelect(self.read_data(filename)))
+        img = Button(frame, image=render, command=lambda: self.make_popup(filename, textvar))
         img.image = render
         return img
 
@@ -240,10 +251,13 @@ class Equipment(object):
             names.append(i[0])
         return names
 
+    def make_popup(self, filename, textvar):
+        popup = EquipSelect(self.read_data(filename), textvar)
+
 
 class EquipSelect(object):
 
-    def __init__(self, slot):
+    def __init__(self, slot, textvar):
         self.window = Tk()
         self.window.title("Equipment select")
         self.window.geometry("165x80")
@@ -251,8 +265,13 @@ class EquipSelect(object):
         self.choice.set_completion_list(slot)
         self.choice.grid(column=1, row=1, pady=10, padx=10)
 
-        Button(self.window, text="Confirm", command=self.window.destroy).grid(column=1, row=2)
+        Button(self.window, text="Confirm", command=lambda: self.print_value(textvar)).grid(column=1, row=2)
         self.window.mainloop()
+
+    def print_value(self, textvar):
+        print(self.choice.get())
+        textvar.set(self.choice.get())
+        self.window.destroy()
 
 
 root = Tk()
