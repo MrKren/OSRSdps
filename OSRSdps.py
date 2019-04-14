@@ -5,6 +5,7 @@ from PIL import Image, ImageTk
 from math import floor
 import requests
 from bs4 import BeautifulSoup
+from ToolTip import Tooltip
 
 
 class Window(Frame):
@@ -196,40 +197,85 @@ class Equipment(object):
 
         self.head_slot = StringVar()
         head_slot = self.make_image_button(self.frame, "graphics/slots/Head_slot.png", "data/head.txt", self.head_slot)
+        head_slot_tip = Tooltip(head_slot, text=self.head_slot)
+        self.head_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.head_slot, tooltip=head_slot_tip: self.change_label(
+                                     sv, tooltip))  
+        # Not really sure how this works but it does (sometimes nature really do be like that)
         head_slot.grid(column=2, row=2, pady=5, padx=5)
 
         self.cape_slot = StringVar()
         cape_slot = self.make_image_button(self.frame, "graphics/slots/Cape_slot.png", "data/cape.txt", self.cape_slot)
+        cape_slot_tip = Tooltip(cape_slot, text=self.cape_slot)
+        self.cape_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.cape_slot, tooltip=cape_slot_tip: self.change_label(
+                                     sv, tooltip))
         cape_slot.grid(column=1, row=3, pady=5, padx=5)
         self.neck_slot = StringVar()
         neck_slot = self.make_image_button(self.frame, "graphics/slots/Neck_slot.png", "data/neck.txt", self.neck_slot)
+        neck_slot_tip = Tooltip(neck_slot, text=self.neck_slot)
+        self.neck_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.neck_slot, tooltip=neck_slot_tip: self.change_label(
+                                     sv, tooltip))
         neck_slot.grid(column=2, row=3, pady=5, padx=5)
         self.ammo_slot = StringVar()
         ammo_slot = self.make_image_button(self.frame, "graphics/slots/Ammo_slot.png", "data/ammo.txt", self.ammo_slot)
+        ammo_slot_tip = Tooltip(ammo_slot, text=self.ammo_slot)
+        self.ammo_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.ammo_slot, tooltip=ammo_slot_tip: self.change_label(
+                                     sv, tooltip))
         ammo_slot.grid(column=3, row=3, pady=5, padx=5)
 
         self.weapon_slot = StringVar()
         weapon_slot = self.make_image_button(self.frame, "graphics/slots/Weapon_slot.png", "data/weapon.txt", self.weapon_slot)
+        weapon_slot_tip = Tooltip(weapon_slot, text=self.weapon_slot)
+        self.weapon_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.weapon_slot, tooltip=weapon_slot_tip: self.change_label(
+                                     sv, tooltip))
         weapon_slot.grid(column=1, row=4, pady=5, padx=5)
         self.body_slot = StringVar()
         body_slot = self.make_image_button(self.frame, "graphics/slots/Body_slot.png", "data/body.txt", self.body_slot)
+        body_slot_tip = Tooltip(body_slot, text=self.body_slot)
+        self.body_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.body_slot, tooltip=body_slot_tip: self.change_label(
+                                     sv, tooltip))
         body_slot.grid(column=2, row=4, pady=5, padx=5)
         self.shield_slot = StringVar()
         shield_slot = self.make_image_button(self.frame, "graphics/slots/Shield_slot.png", "data/shield.txt", self.shield_slot)
+        shield_slot_tip = Tooltip(shield_slot, text=self.shield_slot)
+        self.shield_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.shield_slot, tooltip=shield_slot_tip: self.change_label(
+                                     sv, tooltip))
         shield_slot.grid(column=3, row=4, pady=5, padx=5)
 
         self.legs_slot = StringVar()
         legs_slot = self.make_image_button(self.frame, "graphics/slots/Legs_slot.png", "data/legs.txt", self.legs_slot)
+        legs_slot_tip = Tooltip(legs_slot, text=self.legs_slot)
+        self.legs_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.legs_slot, tooltip=legs_slot_tip: self.change_label(
+                                     sv, tooltip))
         legs_slot.grid(column=2, row=5, pady=5, padx=5)
 
         self.hand_slot = StringVar()
         gloves_slot = self.make_image_button(self.frame, "graphics/slots/Gloves_slot.png", "data/hand.txt", self.hand_slot)
+        head_slot_tip = Tooltip(head_slot, text=self.head_slot)
+        self.head_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.head_slot, tooltip=head_slot_tip: self.change_label(
+                                     sv, tooltip))
         gloves_slot.grid(column=1, row=6, pady=5, padx=5)
         self.boot_slot = StringVar()
         boots_slot = self.make_image_button(self.frame, "graphics/slots/Boots_slot.png", "data/boot.txt", self.boot_slot)
+        boot_slot_tip = Tooltip(boots_slot, text=self.boot_slot)
+        self.boot_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.boot_slot, tooltip=boot_slot_tip: self.change_label(
+                                     sv, tooltip))
         boots_slot.grid(column=2, row=6, pady=5, padx=5)
         self.ring_slot = StringVar()
         ring_slot = self.make_image_button(self.frame, "graphics/slots/Ring_slot.png", "data/ring.txt", self.ring_slot)
+        ring_slot_tip = Tooltip(ring_slot, text=self.ring_slot)
+        self.ring_slot.trace_add("write",
+                                 lambda name, index, mode, sv=self.ring_slot, tooltip=ring_slot_tip: self.change_label(
+                                     sv, tooltip))
         ring_slot.grid(column=3, row=6, pady=5, padx=5)
 
     def make_image_button(self, frame, image_name, filename, textvar):
@@ -254,6 +300,9 @@ class Equipment(object):
     def make_popup(self, filename, textvar):
         popup = EquipSelect(self.read_data(filename), textvar)
 
+    def change_label(self, sv, tooltip):
+        tooltip.text = sv.get()
+
 
 class EquipSelect(object):
 
@@ -263,8 +312,8 @@ class EquipSelect(object):
         self.window.geometry("165x80")
         self.choice = AutocompleteCombobox(self.window)
         self.choice.set_completion_list(slot)
+        self.choice.set(textvar.get())
         self.choice.grid(column=1, row=1, pady=10, padx=10)
-
         Button(self.window, text="Confirm", command=lambda: self.print_value(textvar)).grid(column=1, row=2)
         self.window.mainloop()
 
