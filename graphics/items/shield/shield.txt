@@ -1,0 +1,201 @@
+Bronze defender.png,Bronze defender
+Bronze kiteshield.png,Bronze kiteshield
+Iron kiteshield.png,Iron kiteshield
+Iron sq shield.png,Iron sq shield
+Dragon sq shield.png,Dragon sq shield
+Steel defender.png,Steel defender
+Steel sq shield.png,Steel sq shield
+Black kiteshield.png,Black kiteshield
+Black defender.png,Black defender
+Adamant defender.png,Adamant defender
+Adamant kiteshield.png,Adamant kiteshield
+Adamant kiteshield (g).png,Adamant kiteshield (g)
+Anti-dragon shield.png,Anti-dragon shield
+Iron defender.png,Iron defender
+Mithril defender.png,Mithril defender
+Mithril kiteshield.png,Mithril kiteshield
+Mithril sq shield.png,Mithril sq shield
+Rune kiteshield.png,Rune kiteshield
+Rune kiteshield (g).png,Rune kiteshield (g)
+Rune kiteshield (t).png,Rune kiteshield (t)
+Crystal shield.png,Crystal shield
+Elemental shield.png,Elemental shield
+Fremennik shield (The Fremennik Isles).png,Fremennik shield (The Fremennik Isles)
+Fremennik shield.png,Fremennik shield
+Granite shield.png,Granite shield
+Unlit bug lantern.png,Bug lantern
+Mage's book.png,Mage's book
+Mirror shield.png,Mirror shield
+Toktz-ket-xil.png,Toktz-ket-xil
+Training shield.png,Training shield
+White kiteshield.png,White kiteshield
+Zamorak kiteshield.png,Zamorak kiteshield
+Wooden shield.png,Wooden shield
+Book of balance.png,Book of balance
+Gilded kiteshield.png,Gilded kiteshield
+Rune defender.png,Rune defender
+Dragonfire shield (uncharged).png,Dragonfire shield
+Rune sq shield.png,Rune sq shield
+Holy book.png,Holy book
+Saradomin kiteshield.png,Saradomin kiteshield
+Unholy book.png,Unholy book
+Mind shield.png,Mind shield
+Dragon defender.png,Dragon defender
+Dragon kiteshield.png,Dragon kiteshield
+Black sq shield.png,Black sq shield
+Black shield (h2).png,Black shield (h2)
+White sq shield.png,White sq shield
+Adamant shield (h3).png,Adamant shield (h3)
+Rune shield (h1).png,Rune shield (h1)
+Rune shield (h2).png,Rune shield (h2)
+Rune shield (h3).png,Rune shield (h3)
+Rune shield (h4).png,Rune shield (h4)
+Rune shield (h5).png,Rune shield (h5)
+Guthix kiteshield.png,Guthix kiteshield
+Decorative shield (gold).png,Decorative shield (gold)
+Decorative shield (white).png,Decorative shield (white)
+Decorative shield (red).png,Decorative shield (red)
+Plain satchel.png,Plain satchel
+Black satchel.png,Black satchel
+Gold satchel,Gold satchel
+Black kiteshield (t).png,Black kiteshield (t)
+Wooden shield (Weapons rack).png,Wooden shield (Weapons rack)
+Malediction ward.png,Malediction ward
+Odium ward.png,Odium ward
+Adamant shield (h1).png,Adamant shield (h1)
+Adamant shield (h4).png,Adamant shield (h4)
+Adamant shield (h2).png,Adamant shield (h2)
+Black shield (h4).png,Black shield (h4)
+Black shield (h3).png,Black shield (h3)
+Black shield (h1).png,Black shield (h1)
+Black kiteshield (g).png,Black kiteshield (g)
+Defensive shield.png,Defensive shield
+Armadyl kiteshield.png,Armadyl kiteshield
+Ancient kiteshield.png,Ancient kiteshield
+Mithril kiteshield (t).png,Mithril kiteshield (t)
+Iron kiteshield (t).png,Iron kiteshield (t)
+Iron kiteshield (g).png,Iron kiteshield (g)
+Briefcase.png,Briefcase
+Bronze kiteshield (t).png,Bronze kiteshield (t)
+Bronze kiteshield (g).png,Bronze kiteshield (g)
+Mithril kiteshield (g).png,Mithril kiteshield (g)
+Dragon sq shield (g).png,Dragon sq shield (g)
+Book of war.png,Book of war
+Spirit shield.png,Spirit shield
+Odium ward (or).png,Odium ward (or)
+Malediction ward (or).png,Malediction ward (or)
+Elysian spirit shield.png,Elysian spirit shield
+Arcane spirit shield.png,Arcane spirit shield
+Spectral spirit shield.png,Spectral spirit shield
+Blessed spirit shield.png,Blessed spirit shield
+Falador shield 1.png,Falador shield 1
+Falador shield 2.png,Falador shield 2
+Falador shield 4.png,Falador shield 4
+Falador shield 3.png,Falador shield 3
+Damaged book (Bandos).png,Damaged book (Bandos)
+Damaged book (Armadyl).png,Damaged book (Armadyl)
+Damaged book (Saradomin).png,Damaged book (Saradomin)
+Damaged book (Zamorak).png,Damaged book (Zamorak)
+Damaged book (Guthix).png,Damaged book (Guthix)
+3rd age kiteshield.png,3rd age kiteshield
+Green satchel.png,Green satchel
+Red satchel.png,Red satchel
+Rune satchel.png,Rune satchel
+Chronicle.png,Chronicle
+Cruciferous codex.png,Cruciferous codex
+Steel kiteshield (Arrav).png,Steel kiteshield (Arrav)
+Steel kiteshield (Asgarnia).png,Steel kiteshield (Asgarnia)
+Steel kiteshield (Dorgeshuun).png,Steel kiteshield (Dorgeshuun)
+Steel kiteshield (Dragon).png,Steel kiteshield (Dragon)
+Steel kiteshield (Fairy).png,Steel kiteshield (Fairy)
+Steel kiteshield (Guthix).png,Steel kiteshield (Guthix)
+Steel kiteshield (HAM).png,Steel kiteshield (HAM)
+Steel kiteshield (Horse).png,Steel kiteshield (Horse)
+Steel kiteshield (Jogre).png,Steel kiteshield (Jogre)
+Steel kiteshield (Kandarin).png,Steel kiteshield (Kandarin)
+Steel kiteshield (Misthalin).png,Steel kiteshield (Misthalin)
+Steel kiteshield (Money).png,Steel kiteshield (Money)
+Steel kiteshield (Saradomin).png,Steel kiteshield (Saradomin)
+Steel kiteshield (Skull).png,Steel kiteshield (Skull)
+Steel kiteshield (Varrock).png,Steel kiteshield (Varrock)
+Steel kiteshield (Zamorak).png,Steel kiteshield (Zamorak)
+Rune kiteshield (Arrav).png,Rune kiteshield (Arrav)
+Rune kiteshield (Asgarnia).png,Rune kiteshield (Asgarnia)
+Rune kiteshield (Dorgeshuun).png,Rune kiteshield (Dorgeshuun)
+Rune kiteshield (Dragon).png,Rune kiteshield (Dragon)
+Rune kiteshield (Fairy).png,Rune kiteshield (Fairy)
+Rune kiteshield (Guthix).png,Rune kiteshield (Guthix)
+Rune kiteshield (HAM).png,Rune kiteshield (HAM)
+Rune kiteshield (Horse).png,Rune kiteshield (Horse)
+Rune kiteshield (Jogre).png,Rune kiteshield (Jogre)
+Rune kiteshield (Kandarin).png,Rune kiteshield (Kandarin)
+Rune kiteshield (Misthalin).png,Rune kiteshield (Misthalin)
+Rune kiteshield (Money).png,Rune kiteshield (Money)
+Rune kiteshield (Saradomin).png,Rune kiteshield (Saradomin)
+Rune kiteshield (Skull).png,Rune kiteshield (Skull)
+Rune kiteshield (Varrock).png,Rune kiteshield (Varrock)
+Rune kiteshield (Zamorak).png,Rune kiteshield (Zamorak)
+Wooden shield (g).png,Wooden shield (g)
+Steel kiteshield (t).png,Steel kiteshield (t)
+Steel kiteshield (g).png,Steel kiteshield (g)
+Cabbage round shield.png,Cabbage round shield
+Gilded sq shield.png,Gilded sq shield
+Dragon defender (t).png,Dragon defender (t)
+Corrupted kiteshield.png,Corrupted kiteshield
+Magic shield.png,Magic shield
+Ancient wyvern shield (uncharged).png,Ancient wyvern shield
+Runefest shield.png,Runefest shield
+Broodoo shield (blue).png,Broodoo shield (blue)
+Broodoo shield (orange).png,Broodoo shield (orange)
+Broodoo shield (green).png,Broodoo shield (green)
+Dragonfire ward (uncharged).png,Dragonfire ward
+Adamant kiteshield (Asgarnia).png,Adamant kiteshield (Asgarnia)
+Adamant kiteshield (Dorgeshuun).png,Adamant kiteshield (Dorgeshuun)
+Adamant kiteshield (Dragon).png,Adamant kiteshield (Dragon)
+Adamant kiteshield (Fairy).png,Adamant kiteshield (Fairy)
+Adamant kiteshield (Guthix).png,Adamant kiteshield (Guthix)
+Adamant kiteshield (Saradomin).png,Adamant kiteshield (Saradomin)
+Adamant kiteshield (Zamorak).png,Adamant kiteshield (Zamorak)
+Adamant kiteshield (HAM).png,Adamant kiteshield (HAM)
+Adamant kiteshield (Horse).png,Adamant kiteshield (Horse)
+Adamant kiteshield (Jogre).png,Adamant kiteshield (Jogre)
+Adamant kiteshield (Kandarin).png,Adamant kiteshield (Kandarin)
+Adamant kiteshield (Misthalin).png,Adamant kiteshield (Misthalin)
+Adamant kiteshield (Money).png,Adamant kiteshield (Money)
+Adamant kiteshield (Skull).png,Adamant kiteshield (Skull)
+Adamant kiteshield (Varrock).png,Adamant kiteshield (Varrock)
+Dragon kiteshield (g).png,Dragon kiteshield (g)
+Oak shield.png,Oak shield
+Maple shield.png,Maple shield
+Yew shield.png,Yew shield
+Redwood shield.png,Redwood shield
+Hard leather shield.png,Hard leather shield
+Snakeskin shield.png,Snakeskin shield
+Green d'hide shield.png,Green d'hide shield
+Blue d'hide shield.png,Blue d'hide shield
+Red d'hide shield.png,Red d'hide shield
+Black d'hide shield.png,Black d'hide shield
+Avernic defender.png,Avernic defender
+Chicken (Recruitment Drive).png,Chicken (Recruitment Drive)
+Crystal shield.png,Crystal shield (i)
+Twisted buckler.png,Twisted buckler
+Book of darkness.png,Book of darkness
+Adamant kiteshield (t).png,Adamant kiteshield (t)
+Adamant sq shield.png,Adamant sq shield
+Adamant shield (h5).png,Adamant shield (h5)
+Black shield (h5).png,Black shield (h5)
+Bandos kiteshield.png,Bandos kiteshield
+Book of law.png,Book of law
+Damaged book (Ancient).png,Damaged book (Ancient)
+Tome of fire (empty).png,Tome of fire
+Adamant kiteshield (Arrav).png,Adamant kiteshield (Arrav)
+Bronze sq shield.png,Bronze sq shield
+Kharedst's memoirs.png,Kharedst's memoirs
+Guthix d'hide shield.png,Guthix d'hide shield
+Saradomin d'hide shield.png,Saradomin d'hide shield
+Zamorak d'hide shield.png,Zamorak d'hide shield
+Ancient d'hide shield.png,Ancient d'hide shield
+Armadyl d'hide shield.png,Armadyl d'hide shield
+Bandos d'hide shield.png,Bandos d'hide shield
+Steel kiteshield.png,Steel kiteshield
+Rune defender (t).png,Rune defender (t)

@@ -1,0 +1,120 @@
+Bronze boots.png,Bronze boots
+Iron boots.png,Iron boots
+Steel boots.png,Steel boots
+Black boots.png,Black boots
+Adamant boots.png,Adamant boots
+Mithril boots.png,Mithril boots
+Rune boots.png,Rune boots
+Boots of lightness.png,Boots of lightness
+Builder's boots.png,Builder's boots
+Desert boots.png,Desert boots
+Fancy boots.png,Fancy boots
+Fighting boots.png,Fighting boots
+Frog-leather boots.png,Frog-leather boots
+Gardening boots.png,Gardening boots
+Ghostly boots.png,Ghostly boots
+Insulated boots.png,Insulated boots
+Leather boots.png,Leather boots
+Lumberjack boots.png,Lumberjack boots
+Ham boots.png,Ham boots
+Mime boots.png,Mime boots
+Moonclan boots.png,Moonclan boots
+Ranger boots.png,Ranger boots
+Runner boots.png,Runner boots
+Shoes (Spirits of the Elid).png,Shoes (Spirits of the Elid)
+Skeleton boots.png,Skeleton boots
+Slave boots.png,Slave boots
+Snakeskin boots.png,Snakeskin boots
+Spined boots.png,Spined boots
+Splitbark boots.png,Splitbark boots
+White boots.png,White boots
+Climbing boots.png,Climbing boots
+Chicken feet.png,Chicken feet
+Spiked boots.png,Spiked boots
+Mystic boots (dark).png,Mystic boots (dark)
+Wizard boots.png,Wizard boots
+Infinity boots.png,Infinity boots
+Mystic boots (light).png,Mystic boots (light)
+Flippers.png,Flippers
+Rock-shell boots.png,Rock-shell boots
+Skeletal boots.png,Skeletal boots
+Bandos boots.png,Bandos boots
+Vyrewatch shoes.png,Vyrewatch shoes
+Citizen shoes.png,Citizen shoes
+Silly jester boots.png,Silly jester boots
+Granite boots.png,Granite boots
+Graceful boots.png,Graceful boots
+Lunar boots.png,Lunar boots
+Rogue boots.png,Rogue boots
+Mourner boots,Mourner boots
+Zombie boots.png,Zombie boots
+Pirate boots.png,Pirate boots
+Prospector boots.png,Prospector boots
+Villager sandals (blue).png,Villager sandals (blue)
+Villager sandals (yellow).png,Villager sandals (yellow)
+Villager sandals (pink).png,Villager sandals (pink)
+Villager sandals (brown).png,Villager sandals (brown)
+Gilded boots.png,Gilded boots
+Holy sandals.png,Holy sandals
+Fremennik boots.png,Fremennik boots
+Santa boots.png,Santa boots
+Antisanta boots.png,Antisanta boots
+Cow shoes.png,Cow shoes
+Fremennik sea boots 4.png,Fremennik sea boots 4
+Fremennik sea boots 2.png,Fremennik sea boots 2
+Fremennik sea boots 3.png,Fremennik sea boots 3
+Eternal boots.png,Eternal boots
+Pegasian boots.png,Pegasian boots
+Primordial boots.png,Primordial boots
+Angler boots.png,Angler boots
+Pink boots.png,Pink boots
+Green boots.png,Green boots
+Turquoise boots.png,Turquoise boots
+Cream boots.png,Cream boots
+Blue boots.png,Blue boots
+Purple boots.png,Purple boots
+Teal boots.png,Teal boots
+Yellow boots.png,Yellow boots
+Red boots.png,Red boots
+Grey boots.png,Grey boots
+Gravedigger boots.png,Gravedigger boots
+Shayzien boots (1).png,Shayzien boots (1)
+Shayzien boots (2).png,Shayzien boots (2)
+Shayzien boots (3).png,Shayzien boots (3)
+Shayzien boots (4).png,Shayzien boots (4)
+Shayzien boots (5).png,Shayzien boots (5)
+Farmer's boots.png,Farmer's boots
+Clue hunter boots.png,Clue hunter boots
+Samurai boots.png,Samurai boots
+Mummy's feet.png,Mummy's feet
+Ankou socks.png,Ankou socks
+Zamorak d'hide boots.png,Zamorak d'hide boots
+Saradomin d'hide boots.png,Saradomin d'hide boots
+Armadyl d'hide boots.png,Armadyl d'hide boots
+Bandos d'hide boots.png,Bandos d'hide boots
+Guthix d'hide boots.png,Guthix d'hide boots
+Ancient d'hide boots.png,Ancient d'hide boots
+Light tuxedo shoes.png,Light tuxedo shoes
+Dark tuxedo shoes.png,Dark tuxedo shoes
+Evil chicken feet.png,Evil chicken feet
+Pyromancer boots.png,Pyromancer boots
+Snow imp costume feet.png,Snow imp costume feet
+Dragon boots (g).png,Dragon boots (g)
+Clown shoes.png,Clown shoes
+Boots of stone.png,Boots of stone
+Boots of brimstone.png,Boots of brimstone
+Devout boots.png,Devout boots
+Mystic boots (dusk).png,Mystic boots (dusk)
+Ornate boots.png,Ornate boots
+Mystic boots.png,Mystic boots
+Guardian boots.png,Guardian boots
+Dragon boots.png,Dragon boots
+Boots of darkness.png,Boots of darkness
+Fremennik sea boots 1.png,Fremennik sea boots 1
+Bunny feet.png,Bunny feet
+Mole slippers.png,Mole slippers
+Frog slippers.png,Frog slippers
+Bear feet.png,Bear feet
+Demon feet.png,Demon feet
+Spiked manacles.png,Spiked manacles
+Climbing boots (g).png,Climbing boots (g)

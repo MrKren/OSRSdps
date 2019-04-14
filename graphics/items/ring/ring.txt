@@ -1,0 +1,47 @@
+Archers ring.png,Archers ring
+Beacon ring.png,Beacon ring
+Berserker ring.png,Berserker ring
+Diamond ring.png,Diamond ring
+Dragonstone ring.png,Dragonstone ring
+Gold ring.png,Gold ring
+Lunar ring.png,Lunar ring
+Onyx ring.png,Onyx ring
+Ring of dueling.png,Ring of dueling
+Ring of wealth (uncharged).png,Ring of wealth
+Ruby ring.png,Ruby ring
+Seers ring.png,Seers ring
+Warrior ring.png,Warrior ring
+Emerald ring.png,Emerald ring
+Ring of visibility.png,Ring of visibility
+Ring of recoil.png,Ring of recoil
+Berserker ring (i).png,Berserker ring (i)
+Warrior ring (i).png,Warrior ring (i)
+Archers ring (i).png,Archers ring (i)
+Seers ring (i).png,Seers ring (i)
+Slayer ring.png,Slayer ring
+Tyrannical ring.png,Tyrannical ring
+Treasonous ring.png,Treasonous ring
+Ring of the gods.png,Ring of the gods
+Tyrannical ring (i).png,Tyrannical ring (i)
+Treasonous ring (i).png,Treasonous ring (i)
+Ring of wealth (i) (uncharged).png,Ring of wealth (i)
+Explorer's ring 1.png,Explorer's ring 1
+Explorer's ring 2.png,Explorer's ring 2
+Explorer's ring 3.png,Explorer's ring 3
+Explorer's ring 4.png,Explorer's ring 4
+'perfect' ring.png,'perfect' ring
+Ring of the gods (i).png,Ring of the gods (i)
+Ring of suffering.png,Ring of suffering
+Ring of suffering (i).png,Ring of suffering (i)
+Opal ring.png,Opal ring
+Jade ring.png,Jade ring
+Topaz ring.png,Topaz ring
+Ring of pursuit.png,Ring of pursuit
+Ring of returning.png,Ring of returning
+Slayer ring (eternal).png,Slayer ring (eternal)
+Granite ring.png,Granite ring
+Granite ring (i).png,Granite ring (i)
+Ring of forging.png,Ring of forging
+Brimstone ring.png,Brimstone ring
+Zenyte ring.png,Zenyte ring
+Efaritay's aid.png,Efaritay's aid

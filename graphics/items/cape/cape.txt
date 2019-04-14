@@ -1,0 +1,183 @@
+Agility cape.png,Agility cape
+Attack cape.png,Attack cape
+Ava's accumulator.png,Ava's accumulator
+Ava's attractor.png,Ava's attractor
+Bonesack.png,Bonesack
+Cape of legends.png,Cape of legends
+Hitpoints cape.png,Hitpoints cape
+Construct. cape.png,Construct. cape
+Cooking cape.png,Cooking cape
+Defence cape.png,Defence cape
+Diving apparatus.png,Diving apparatus
+Farming cape.png,Farming cape
+Fire cape.png,Fire cape
+Firemaking cape.png,Firemaking cape
+Fishing cape.png,Fishing cape
+Fletching cape.png,Fletching cape
+Ghostly cloak.png,Ghostly cloak
+Mining cape.png,Mining cape
+Moonclan cape.png,Moonclan cape
+Prayer cape.png,Prayer cape
+Saradomin cloak.png,Saradomin cloak
+Slayer cape.png,Slayer cape
+Smithing cape.png,Smithing cape
+Spotted cape.png,Spotted cape
+Spottier cape.png,Spottier cape
+Thieving cape.png,Thieving cape
+Obsidian cape.png,Obsidian cape
+Quest point cape.png,Quest point cape
+Strength cape.png,Strength cape
+Ranging cape.png,Ranging cape
+Magic cape.png,Magic cape
+Runecraft cape.png,Runecraft cape
+Herblore cape.png,Herblore cape
+Crafting cape.png,Crafting cape
+Woodcutting cape.png,Woodcutting cape
+Hunter cape.png,Hunter cape
+Saradomin cape.png,Saradomin cape
+Ham cloak.png,Ham cloak
+Blue cape.png,Blue cape
+Zamorak cape.png,Zamorak cape
+Zamorak cloak.png,Zamorak cloak
+Guthix cape.png,Guthix cape
+Graceful cape.png,Graceful cape
+Lunar cape.png,Lunar cape
+Mourner cloak,Mourner cloak
+Eagle cape.png,Eagle cape
+Decorative armour (quiver).png,Decorative armour (quiver)
+Castlewars cloak (Saradomin).png,Castlewars cloak (Saradomin)
+Castlewars cloak (Zamorak).png,Castlewars cloak (Zamorak)
+Black cape.png,Black cape
+Explorer backpack.png,Explorer backpack
+Bandos cloak.png,Bandos cloak
+Ancient cloak.png,Ancient cloak
+Armadyl cloak.png,Armadyl cloak
+Team-6 cape.png,Team-6 cape
+Team-16 cape.png,Team-16 cape
+Team-26 cape.png,Team-26 cape
+Team-36 cape.png,Team-36 cape
+Team-46 cape.png,Team-46 cape
+Team-20 cape.png,Team-20 cape
+Team-30 cape.png,Team-30 cape
+Team-40 cape.png,Team-40 cape
+Team-50 cape.png,Team-50 cape
+Team-1 cape.png,Team-1 cape
+Team-11 cape.png,Team-11 cape
+Team-21 cape.png,Team-21 cape
+Team-31 cape.png,Team-31 cape
+Achievement diary cape.png,Achievement diary cape
+3rd age cloak.png,3rd age cloak
+Music cape.png,Music cape
+Max cape.png,Max cape
+Fremennik brown cloak.png,Fremennik brown cloak
+Fremennik blue cloak.png,Fremennik blue cloak
+Fremennik green cloak.png,Fremennik green cloak
+Fremennik red cloak.png,Fremennik red cloak
+Fremennik grey cloak.png,Fremennik grey cloak
+Fremennik yellow cloak.png,Fremennik yellow cloak
+Fremennik teal cloak.png,Fremennik teal cloak
+Fremennik purple cloak.png,Fremennik purple cloak
+Fremennik pink cloak.png,Fremennik pink cloak
+Fremennik black cloak.png,Fremennik black cloak
+Fremennik cyan cloak.png,Fremennik cyan cloak
+Red cape.png,Red cape
+Yellow cape.png,Yellow cape
+Green cape.png,Green cape
+Orange cape.png,Orange cape
+Deadman's cape.png,Deadman's cape
+Fire max cape.png,Fire max cape
+Zamorak max cape.png,Zamorak max cape
+Saradomin max cape.png,Saradomin max cape
+Guthix max cape.png,Guthix max cape
+Team-43 cape.png,Team-43 cape
+Healer icon.png,Healer icon
+Defender icon.png,Defender icon
+Collector icon.png,Collector icon
+Attacker icon.png,Attacker icon
+Cabbage cape.png,Cabbage cape
+Monkey (Monkey Madness II).png,Monkey (Monkey Madness II)
+Clue hunter cloak.png,Clue hunter cloak
+Obsidian cape (r).png,Obsidian cape (r)
+Team cape i.png,Team cape i
+Team cape zero.png,Team cape zero
+Team cape x.png,Team cape x
+Team-9 cape.png,Team-9 cape
+Team-19 cape.png,Team-19 cape
+Team-29 cape.png,Team-29 cape
+Team-39 cape.png,Team-39 cape
+Team-49 cape.png,Team-49 cape
+Team-8 cape.png,Team-8 cape
+Team-48 cape.png,Team-48 cape
+Team-2 cape.png,Team-2 cape
+Team-3 cape.png,Team-3 cape
+Team-4 cape.png,Team-4 cape
+Team-5 cape.png,Team-5 cape
+Team-7 cape.png,Team-7 cape
+Team-12 cape.png,Team-12 cape
+Team-13 cape.png,Team-13 cape
+Team-14 cape.png,Team-14 cape
+Team-15 cape.png,Team-15 cape
+Team-17 cape.png,Team-17 cape
+Team-18 cape.png,Team-18 cape
+Team-23 cape.png,Team-23 cape
+Team-24 cape.png,Team-24 cape
+Team-25 cape.png,Team-25 cape
+Team-32 cape.png,Team-32 cape
+Team-33 cape.png,Team-33 cape
+Team-34 cape.png,Team-34 cape
+Team-35 cape.png,Team-35 cape
+Team-38 cape.png,Team-38 cape
+Team-44 cape.png,Team-44 cape
+Team-45 cape.png,Team-45 cape
+Team-47 cape.png,Team-47 cape
+Team-22 cape.png,Team-22 cape
+Team-27 cape.png,Team-27 cape
+Team-28 cape.png,Team-28 cape
+Team-42 cape.png,Team-42 cape
+Ardougne max cape.png,Ardougne max cape
+Sack of presents.png,Sack of presents
+Infernal cape.png,Infernal cape
+Infernal max cape.png,Infernal max cape
+Champion's cape.png,Champion's cape
+Imbued saradomin max cape.png,Imbued saradomin max cape
+Imbued guthix max cape.png,Imbued guthix max cape
+Imbued zamorak max cape.png,Imbued zamorak max cape
+Imbued saradomin cape.png,Imbued saradomin cape
+Imbued guthix cape.png,Imbued guthix cape
+Imbued zamorak cape.png,Imbued zamorak cape
+Mythical cape.png,Mythical cape
+Ava's assembler.png,Ava's assembler
+Assembler max cape.png,Assembler max cape
+Xeric's guard.png,Xeric's guard
+Xeric's warrior.png,Xeric's warrior
+Xeric's sentinel.png,Xeric's sentinel
+Xeric's general.png,Xeric's general
+Xeric's champion.png,Xeric's champion
+Sinhaza shroud tier 1.png,Sinhaza shroud tier 1
+Sinhaza shroud tier 2.png,Sinhaza shroud tier 2
+Sinhaza shroud tier 4.png,Sinhaza shroud tier 4
+Sinhaza shroud tier 3.png,Sinhaza shroud tier 3
+Sinhaza shroud tier 5.png,Sinhaza shroud tier 5
+Grain (Recruitment Drive).png,Grain (Recruitment Drive)
+Scroll sack.png,Scroll sack
+Hooded cloak (Saradomin).png,Hooded cloak
+Fish sack.png,Fish sack
+Ornate cape.png,Ornate cape
+Guthix cloak.png,Guthix cloak
+Pink cape.png,Pink cape
+Purple cape.png,Purple cape
+Team-41 cape.png,Team-41 cape
+Accumulator max cape.png,Accumulator max cape
+Snow imp costume tail.png,Snow imp costume tail
+Ardougne cloak 4.png,Ardougne cloak 4
+Ardougne cloak 3.png,Ardougne cloak 3
+Ardougne cloak 2.png,Ardougne cloak 2
+Ardougne cloak 1.png,Ardougne cloak 1
+Team-10 cape.png,Team-10 cape
+Team-37 cape.png,Team-37 cape
+Jester cape.png,Jester cape
+Shoulder parrot.png,Shoulder parrot
+Cape of skulls.png,Cape of skulls
+Wolf cloak.png,Wolf cloak
+Thieving bag.png,Thieving bag
+3rd age druidic cloak.png,3rd age druidic cloak

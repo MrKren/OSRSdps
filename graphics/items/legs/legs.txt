@@ -1,0 +1,291 @@
+Bronze plateskirt.png,Bronze plateskirt
+Dragon platelegs.png,Dragon platelegs
+Steel platelegs.png,Steel platelegs
+Black plateskirt.png,Black plateskirt
+Adamant platelegs.png,Adamant platelegs
+Adamant platelegs (t).png,Adamant platelegs (t)
+Adamant plateskirt.png,Adamant plateskirt
+Adamant plateskirt (g).png,Adamant plateskirt (g)
+Adamant plateskirt (t).png,Adamant plateskirt (t)
+Iron platelegs.png,Iron platelegs
+Iron plateskirt.png,Iron plateskirt
+Bronze platelegs.png,Bronze platelegs
+Mithril platelegs.png,Mithril platelegs
+Mithril plateskirt.png,Mithril plateskirt
+Rune platelegs.png,Rune platelegs
+Rune platelegs (t).png,Rune platelegs (t)
+Rune plateskirt.png,Rune plateskirt
+Rune plateskirt (t).png,Rune plateskirt (t)
+Steel plateskirt.png,Steel plateskirt
+Blue d'hide chaps.png,Blue d'hide chaps
+Builder's trousers.png,Builder's trousers
+Camo bottoms.png,Camo bottoms
+Frog-leather chaps.png,Frog-leather chaps
+Ghostly robe (bottom).png,Ghostly robe (bottom)
+Gilded platelegs.png,Gilded platelegs
+Gilded plateskirt.png,Gilded plateskirt
+Graahk legs.png,Graahk legs
+Granite legs.png,Granite legs
+Green d'hide chaps.png,Green d'hide chaps
+Guthan's chainskirt.png,Guthan's chainskirt
+Initiate cuisse.png,Initiate cuisse
+Kyatt legs.png,Kyatt legs
+Larupia legs.png,Larupia legs
+Lederhosen shorts.png,Lederhosen shorts
+Lunar legs.png,Lunar legs
+Moonclan skirt.png,Moonclan skirt
+Penance skirt.png,Penance skirt
+Prince leggings.png,Prince leggings
+Proselyte cuisse,Proselyte cuisse
+Proselyte tasset,Proselyte tasset
+Rock-shell legs.png,Rock-shell legs
+Slave robe.png,Slave robe
+Snakeskin chaps.png,Snakeskin chaps
+Spined chaps.png,Spined chaps
+Splitbark legs.png,Splitbark legs
+Studded chaps (g).png,Studded chaps (g)
+Void knight robe.png,Void knight robe
+White platelegs.png,White platelegs
+White plateskirt.png,White plateskirt
+Yak-hide armour (legs).png,Yak-hide armour (legs)
+Zamorak plateskirt.png,Zamorak plateskirt
+Zombie trousers.png,Zombie trousers
+Studded chaps.png,Studded chaps
+Plague trousers.png,Plague trousers
+Black platelegs.png,Black platelegs
+Guthix platelegs.png,Guthix platelegs
+Black d'hide chaps.png,Black d'hide chaps
+Red d'hide chaps.png,Red d'hide chaps
+Monk's robe.png,Monk's robe
+Priest gown (bottom).png,Priest gown (bottom)
+Blue skirt.png,Blue skirt
+Dharok's platelegs.png,Dharok's platelegs
+Shade robe.png,Shade robe
+Desert robes.png,Desert robes
+Verac's plateskirt.png,Verac's plateskirt
+Leather chaps.png,Leather chaps
+Ham robe.png,Ham robe
+Mystic robe bottom (dark).png,Mystic robe bottom (dark)
+Pink skirt.png,Pink skirt
+Torag's platelegs.png,Torag's platelegs
+Black skirt.png,Black skirt
+Skeleton leggings.png,Skeleton leggings
+Lumberjack legs.png,Lumberjack legs
+Mystic robe bottom (light).png,Mystic robe bottom (light)
+Princess skirt.png,Princess skirt
+Rune platelegs (g).png,Rune platelegs (g)
+Ahrim's robeskirt.png,Ahrim's robeskirt
+Skeletal bottoms.png,Skeletal bottoms
+Robe of elidinis (bottom).png,Robe of elidinis (bottom)
+Zamorak monk bottom.png,Zamorak monk bottom
+Bandos tassets.png,Bandos tassets
+Armadyl chainskirt.png,Armadyl chainskirt
+Chicken legs.png,Chicken legs
+Mime legs.png,Mime legs
+Vyrewatch legs.png,Vyrewatch legs
+Citizen trousers.png,Citizen trousers
+Silly jester tights.png,Silly jester tights
+Zamorak robe legs.png,Zamorak robe legs
+Blue skirt (t).png,Blue skirt (t)
+Saradomin plateskirt.png,Saradomin plateskirt
+Saradomin platelegs.png,Saradomin platelegs
+Karil's leatherskirt.png,Karil's leatherskirt
+Graceful legs.png,Graceful legs
+Infinity bottoms.png,Infinity bottoms
+Rogue trousers.png,Rogue trousers
+Saradomin chaps.png,Saradomin chaps
+Guthix chaps.png,Guthix chaps
+Druid's robe.png,Druid's robe
+Guthix plateskirt.png,Guthix plateskirt
+Mourner trousers (damaged).png,Mourner trousers
+Decorative armour (gold platelegs).png,Decorative armour (gold platelegs)
+Decorative armour (white platelegs).png,Decorative armour (white platelegs)
+Decorative armour (red platelegs).png,Decorative armour (red platelegs)
+Decorative armour (gold plateskirt).png,Decorative armour (gold plateskirt)
+Decorative armour (white plateskirt).png,Decorative armour (white plateskirt)
+Decorative armour (red plateskirt).png,Decorative armour (red plateskirt)
+Decorative armour (magic legs).png,Decorative armour (magic legs)
+Decorative armour (ranged legs).png,Decorative armour (ranged legs)
+Blue d'hide chaps (g).png,Blue d'hide chaps (g)
+Saradomin robe legs.png,Saradomin robe legs
+Guthix robe legs.png,Guthix robe legs
+Wood camo legs.png,Wood camo legs
+Desert camo legs.png,Desert camo legs
+Polar camo legs.png,Polar camo legs
+Mystic robe bottom.png,Mystic robe bottom
+Flared trousers.png,Flared trousers
+Pantaloons.png,Pantaloons
+Blue d'hide chaps (t).png,Blue d'hide chaps (t)
+Green d'hide chaps (g).png,Green d'hide chaps (g)
+Green d'hide chaps (t).png,Green d'hide chaps (t)
+Studded chaps (t).png,Studded chaps (t)
+Black elegant legs.png,Black elegant legs
+Prospector legs.png,Prospector legs
+Black desert robe.png,Black desert robe
+Desert legs.png,Desert legs
+Black plateskirt (t).png,Black plateskirt (t)
+Skirt (lilac).png,Skirt (lilac)
+Skirt (brown).png,Skirt (brown)
+Skirt (blue).png,Skirt (blue)
+Armadyl platelegs.png,Armadyl platelegs
+Ancient plateskirt.png,Ancient plateskirt
+Ancient platelegs.png,Ancient platelegs
+Bandos plateskirt.png,Bandos plateskirt
+Bandos platelegs.png,Bandos platelegs
+Red d'hide chaps (t).png,Red d'hide chaps (t)
+Mithril platelegs (t).png,Mithril platelegs (t)
+Mithril platelegs (g).png,Mithril platelegs (g)
+Iron platelegs (t).png,Iron platelegs (t)
+Musketeer pants.png,Musketeer pants
+Black skirt (g).png,Black skirt (g)
+Black skirt (t).png,Black skirt (t)
+Royal gown bottom.png,Royal gown bottom
+Iron plateskirt (t).png,Iron plateskirt (t)
+Red d'hide chaps (g).png,Red d'hide chaps (g)
+Armadyl chaps.png,Armadyl chaps
+Bandos chaps.png,Bandos chaps
+Blue skirt (g).png,Blue skirt (g)
+Armadyl robe legs.png,Armadyl robe legs
+Mithril plateskirt (t).png,Mithril plateskirt (t)
+Bronze platelegs (t).png,Bronze platelegs (t)
+Bronze plateskirt (t).png,Bronze plateskirt (t)
+Bronze platelegs (g).png,Bronze platelegs (g)
+Bandos robe legs.png,Bandos robe legs
+Ancient robe legs.png,Ancient robe legs
+Black platelegs (t).png,Black platelegs (t)
+Black plateskirt (g).png,Black plateskirt (g)
+Black platelegs (g).png,Black platelegs (g)
+Mithril plateskirt (g).png,Mithril plateskirt (g)
+Pirate leggings (beige).png,Pirate leggings (beige)
+Pirate leggings (red).png,Pirate leggings (red)
+Pirate leggings (blue).png,Pirate leggings (blue)
+Pirate leggings (brown).png,Pirate leggings (brown)
+Armadyl plateskirt.png,Armadyl plateskirt
+Dragon platelegs (g).png,Dragon platelegs (g)
+Dragon plateskirt (g).png,Dragon plateskirt (g)
+Bronze plateskirt (g).png,Bronze plateskirt (g)
+Light infinity bottoms.png,Light infinity bottoms
+Dark infinity bottoms.png,Dark infinity bottoms
+Black d'hide chaps (g).png,Black d'hide chaps (g)
+White elegant skirt.png,White elegant skirt
+Blue elegant skirt.png,Blue elegant skirt
+Blue elegant legs.png,Blue elegant legs
+Green elegant skirt.png,Green elegant skirt
+Green elegant legs.png,Green elegant legs
+Purple elegant skirt.png,Purple elegant skirt
+Purple elegant legs.png,Purple elegant legs
+Red elegant skirt.png,Red elegant skirt
+Gold elegant skirt.png,Gold elegant skirt
+Gold elegant legs.png,Gold elegant legs
+Pink elegant skirt.png,Pink elegant skirt
+Pink elegant legs.png,Pink elegant legs
+Fremennik skirt.png,Fremennik skirt
+Ultimate ironman platelegs.png,Ultimate ironman platelegs
+Ironman platelegs.png,Ironman platelegs
+Santa pantaloons.png,Santa pantaloons
+Antisanta pantaloons.png,Antisanta pantaloons
+Cow trousers.png,Cow trousers
+Morytania legs 1.png,Morytania legs 1
+Morytania legs 2.png,Morytania legs 2
+Morytania legs 4.png,Morytania legs 4
+Morytania legs 3.png,Morytania legs 3
+Elite void robe.png,Elite void robe
+3rd age platelegs.png,3rd age platelegs
+3rd age robe.png,3rd age robe
+Trousers (lilac).png,Trousers (lilac)
+Trousers (blue).png,Trousers (blue)
+Shorts (blue).png,Shorts (blue)
+Trousers (brown).png,Trousers (brown)
+Angler waders.png,Angler waders
+Menaphite red robe.png,Menaphite red robe
+Menaphite purple robe.png,Menaphite purple robe
+Menaphite red kilt.png,Menaphite red kilt
+Menaphite purple kilt.png,Menaphite purple kilt
+Turquoise robe bottoms.png,Turquoise robe bottoms
+Green robe bottoms.png,Green robe bottoms
+Cream robe bottoms.png,Cream robe bottoms
+Pink robe bottoms.png,Pink robe bottoms
+Grey robe bottoms.png,Grey robe bottoms
+Red robe bottoms.png,Red robe bottoms
+Yellow robe bottoms.png,Yellow robe bottoms
+Teal robe bottoms.png,Teal robe bottoms
+Purple robe bottoms.png,Purple robe bottoms
+Gravedigger leggings.png,Gravedigger leggings
+Anti-panties.png,Anti-panties
+Deadman's legs.png,Deadman's legs
+Xerician robe.png,Xerician robe
+Shayzien greaves (1).png,Shayzien greaves (1)
+Shayzien greaves (2).png,Shayzien greaves (2)
+Shayzien greaves (3).png,Shayzien greaves (3)
+Shayzien greaves (4).png,Shayzien greaves (4)
+Shayzien greaves (5).png,Shayzien greaves (5)
+Blue navy slacks.png,Blue navy slacks
+Green navy slacks.png,Green navy slacks
+Red navy slacks.png,Red navy slacks
+Brown navy slacks.png,Brown navy slacks
+Black navy slacks.png,Black navy slacks
+Purple navy slacks.png,Purple navy slacks
+Grey navy slacks.png,Grey navy slacks
+Farmer's boro trousers.png,Farmer's boro trousers
+Bunny legs.png,Bunny legs
+Clue hunter trousers.png,Clue hunter trousers
+Samurai greaves.png,Samurai greaves
+Mummy's legs.png,Mummy's legs
+Ankou's leggings.png,Ankou's leggings
+Monk's robe (g).png,Monk's robe (g)
+Steel platelegs (t).png,Steel platelegs (t)
+Steel platelegs (g).png,Steel platelegs (g)
+Steel plateskirt (g).png,Steel plateskirt (g)
+Steel plateskirt (t).png,Steel plateskirt (t)
+Light trousers.png,Light trousers
+Dark trousers.png,Dark trousers
+Elder chaos robe.png,Elder chaos robe
+Evil chicken legs.png,Evil chicken legs
+Pyromancer robe.png,Pyromancer robe
+Banshee robe.png,Banshee robe
+Hardcore ironman platelegs.png,Hardcore ironman platelegs
+Corrupted platelegs.png,Corrupted platelegs
+Corrupted plateskirt.png,Corrupted plateskirt
+Ancestral robe bottom.png,Ancestral robe bottom
+Obsidian platelegs.png,Obsidian platelegs
+Snow imp costume legs.png,Snow imp costume legs
+Villager robe (brown).png,Villager robe (brown)
+Villager robe (blue).png,Villager robe (blue)
+Villager robe (yellow).png,Villager robe (yellow)
+Villager robe (pink).png,Villager robe (pink)
+Shorts (yellow).png,Shorts (yellow)
+Justiciar legguards.png,Justiciar legguards
+Eggshell platelegs.png,Eggshell platelegs
+Vesta's plateskirt.png,Vesta's plateskirt
+Statius's platelegs.png,Statius's platelegs
+Morrigan's leather chaps.png,Morrigan's leather chaps
+Zuriel's robe bottom.png,Zuriel's robe bottom
+Clown trousers.png,Clown trousers
+Tree skirt.png,Tree skirt
+Ornate legs.png,Ornate legs
+Enchanted robe.png,Enchanted robe
+Jungle camo legs.png,Jungle camo legs
+Rune skirt g.png,Rune plateskirt (g)
+Zamorak chaps.png,Zamorak chaps
+Iron platelegs (g).png,Iron platelegs (g)
+Ancient chaps.png,Ancient chaps
+Black d'hide chaps (t).png,Black d'hide chaps (t)
+Red elegant legs.png,Red elegant legs
+3rd age range legs.png,3rd age range legs
+Blue robe bottoms.png,Blue robe bottoms
+Adamant platelegs (g).png,Adamant platelegs (g)
+Desert robe.png,Desert robe
+Zamorak platelegs.png,Zamorak platelegs
+Iron plateskirt (g).png,Iron plateskirt (g)
+Robe bottom of darkness.png,Robe bottom of darkness
+Shorts (brown).png,Shorts (brown)
+Mystic robe bottom (dusk).png,Mystic robe bottom (dusk)
+Dragon plateskirt.png,Dragon plateskirt
+Monk's robe (t).png,Monk's robe (t)
+Sandwich lady bottom.png,Sandwich lady bottom
+Leather chaps (g).png,Leather chaps (g)
+3rd age plateskirt.png,3rd age plateskirt
+Rangers' tights.png,Rangers' tights
+Fremennik kilt.png,Fremennik kilt
+Gilded d'hide chaps.png,Gilded d'hide chaps
+3rd age druidic robe bottoms.png,3rd age druidic robe bottoms

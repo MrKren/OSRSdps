@@ -1,0 +1,127 @@
+Iron 2h sword.png,Iron 2h sword
+Iron spear.png,Iron spear
+Steel spear.png,Steel spear
+Black 2h sword.png,Black 2h sword
+Black spear.png,Black spear
+Adamant 2h sword.png,Adamant 2h sword
+Adamant claws.png,Adamant claws
+Adamant halberd.png,Adamant halberd
+Adamant spear.png,Adamant spear
+Anger spear.png,Anger spear
+Bronze 2h sword.png,Bronze 2h sword
+Bronze claws.png,Bronze claws
+Iron claws.png,Iron claws
+Mithril 2h sword.png,Mithril 2h sword
+Mithril halberd.png,Mithril halberd
+Bronze spear.png,Bronze spear
+Rune 2h sword.png,Rune 2h sword
+Rune claws.png,Rune claws
+Rune halberd.png,Rune halberd
+Rune spear.png,Rune spear
+Steel 2h sword.png,Steel 2h sword
+Steel claws.png,Steel claws
+Barrelchest anchor.png,Barrelchest anchor
+Comp ogre bow.png,Comp ogre bow
+Crystal bow.png,Crystal bow
+Dragon 2h sword.png,Dragon 2h sword
+Gadderhammer.png,Gadderhammer
+Granite maul.png,Granite maul
+Guthan's warspear.png,Guthan's warspear
+Maple longbow.png,Maple longbow
+Maple shortbow.png,Maple shortbow
+Oak longbow.png,Oak longbow
+Ogre bow.png,Ogre bow
+Saradomin mjolnir.png,Saradomin mjolnir
+Seercull.png,Seercull
+Shadow sword.png,Shadow sword
+Shortbow.png,Shortbow
+Spatula.png,Spatula
+Toktz-mej-tal.png,Toktz-mej-tal
+Verac's flail.png,Verac's flail
+Willow shortbow.png,Willow shortbow
+Dragon halberd.png,Dragon halberd
+Black halberd.png,Black halberd
+White halberd.png,White halberd
+White 2h sword.png,White 2h sword
+Dark bow.png,Dark bow
+Tzhaar-ket-om.png,Tzhaar-ket-om
+Dragon spear.png,Dragon spear
+Pharaoh's sceptre.png,Pharaoh's sceptre
+Willow comp bow.png,Willow comp bow
+Yew shortbow.png,Yew shortbow
+Longbow.png,Longbow
+Oak shortbow.png,Oak shortbow
+Magic longbow.png,Magic longbow
+Yew comp bow.png,Yew comp bow
+Magic comp bow.png,Magic comp bow
+Training bow.png,Training bow
+Willow longbow.png,Willow longbow
+Swamp lizard.png,Swamp lizard
+Leaf-bladed spear.png,Leaf-bladed spear
+Yew longbow.png,Yew longbow
+Crystal halberd.png,Crystal halberd
+Torag's hammers.png,Torag's hammers
+Black claws.png,Black claws
+White claws.png,White claws
+Mithril claws.png,Mithril claws
+Fixed device.png,Fixed device
+Cursed goblin bow.png,Cursed goblin bow
+Dharok's greataxe.png,Dharok's greataxe
+Armadyl godsword.png,Armadyl godsword
+Bandos godsword.png,Bandos godsword
+Saradomin godsword.png,Saradomin godsword
+Zamorakian spear.png,Zamorakian spear
+Zamorak godsword.png,Zamorak godsword
+Guthix mjolnir.png,Guthix mjolnir
+Zamorak mjolnir.png,Zamorak mjolnir
+Black salamander.png,Black salamander
+Red salamander.png,Red salamander
+Sled (unwaxed).png,Sled
+Signed oak bow.png,Signed oak bow
+Crate with zanik.png,Crate with zanik
+Orange salamander.png,Orange salamander
+Saradomin sword.png,Saradomin sword
+Katana.png,Katana
+3rd age bow.png,3rd age bow
+Event rpg.png,Event rpg
+Magic shortbow (i).png,Magic shortbow (i)
+Saradomin's blessed sword.png,Saradomin's blessed sword
+Granite maul (or).png,Granite maul (or)
+Toxic blowpipe (empty).png,Toxic blowpipe
+Oddskull.png,Oddskull
+Abyssal bludgeon.png,Abyssal bludgeon
+Heavy ballista.png,Heavy ballista
+Light ballista.png,Light ballista
+Gilded 2h sword.png,Gilded 2h sword
+Gilded spear.png,Gilded spear
+Armadyl godsword (or).png,Armadyl godsword (or)
+Bandos godsword (or).png,Bandos godsword (or)
+Saradomin godsword (or).png,Saradomin godsword (or)
+Zamorak godsword (or).png,Zamorak godsword (or)
+Large spade.png,Large spade
+Heavy casket.png,Heavy casket
+Spear (Last Man Standing).png,Spear (Last Man Standing)
+Elder maul.png,Elder maul
+Giant present.png,Giant present
+Twisted bow.png,Twisted bow
+Dinh's bulwark.png,Dinh's bulwark
+Starter bow.png,Starter bow
+Craw's bow (u).png,Craw's bow
+Crystal bow.png,Crystal bow (i)
+Crystal halberd.png,Crystal halberd (i)
+Bronze halberd.png,Bronze halberd
+Merfolk trident.png,Merfolk trident
+Mithril spear.png,Mithril spear
+Scythe of vitur (uncharged).png,Scythe of vitur
+Nunchaku.png,Nunchaku
+Hill giant club.png,Hill giant club
+Karil's crossbow.png,Karil's crossbow
+Magic shortbow.png,Magic shortbow
+Vesta's spear.png,Vesta's spear
+Iron halberd.png,Iron halberd
+Steel halberd.png,Steel halberd
+Dragon claws.png,Dragon claws
+Giant easter egg.png,Giant easter egg
+Tzhaar-ket-om (t).png,Tzhaar-ket-om (t)
+Gilded spade.png,Gilded spade
+Dual sai.png,Dual sai

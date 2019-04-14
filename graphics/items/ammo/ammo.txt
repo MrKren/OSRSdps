@@ -1,0 +1,110 @@
+Opal bolts 1.png,Opal bolts
+Barbed bolts 1.png,Barbed bolts
+Opal bolts (e) 1.png,Opal bolts (e)
+Bronze javelin.png,Bronze javelin
+Pearl bolts (e) 1.png,Pearl bolts (e)
+Pearl bolts 1.png,Pearl bolts
+Steel javelin.png,Steel javelin
+Steel brutal 1.png,Steel brutal
+Bronze bolts 1.png,Bronze bolts
+Steel bolts 1.png,Steel bolts
+Iron bolts 1.png,Iron bolts
+Adamant bolts 1.png,Adamant bolts
+Adamant javelin.png,Adamant javelin
+Bronze arrow 1.png,Bronze arrow
+Bronze brutal 1.png,Bronze brutal
+Bronze fire arrows (unlit) 1.png,Bronze fire arrows
+Iron arrow 1.png,Iron arrow
+Iron javelin.png,Iron javelin
+Mithril arrow 1.png,Mithril arrow
+Mithril bolts 1.png,Mithril bolts
+Mithril javelin.png,Mithril javelin
+Rune arrow 1.png,Rune arrow
+Rune javelin.png,Rune javelin
+Steel arrow 1.png,Steel arrow
+Blurite bolts 1.png,Blurite bolts
+Bolt rack 1.png,Bolt rack
+Diamond bolts 1.png,Diamond bolts
+Diamond bolts (e) 1.png,Diamond bolts (e)
+Dragon arrow 1.png,Dragon arrow
+Dragonstone bolts 1.png,Dragonstone bolts
+Emerald bolts 1.png,Emerald bolts
+Emerald bolts (e) 1.png,Emerald bolts (e)
+Guam tar.png,Guam tar
+Ice arrows 1.png,Ice arrows
+Jade bolts 1.png,Jade bolts
+Kebbit bolts.png,Kebbit bolts
+Long kebbit bolts.png,Long kebbit bolts
+Marrentill tar.png,Marrentill tar
+Ruby bolts 1.png,Ruby bolts
+Ruby bolts (e) 1.png,Ruby bolts (e)
+Runite bolts 1.png,Runite bolts
+Sapphire bolts 1.png,Sapphire bolts
+Sapphire bolts (e) 1.png,Sapphire bolts (e)
+Silver bolts 1.png,Silver bolts
+Training arrows 1.png,Training arrows
+Jade bolts (e) 1.png,Jade bolts (e)
+Dragonstone bolts (e) 1.png,Dragonstone bolts (e)
+Onyx bolts 1.png,Onyx bolts
+Topaz bolts 1.png,Topaz bolts
+Mith grapple.png,Mith grapple
+Rune brutal 1.png,Rune brutal
+Iron brutal 1.png,Iron brutal
+Broad arrow 1.png,Broad arrows
+Iron fire arrows (unlit) 1.png,Iron fire arrows
+Topaz bolts (e) 1.png,Topaz bolts (e)
+Tarromin tar.png,Tarromin tar
+Harralander tar.png,Harralander tar
+Broad bolts 1.png,Broad bolts
+Adamant brutal 1.png,Adamant brutal
+Black brutal 1.png,Black brutal
+Ogre arrow 1.png,Ogre arrow
+Rune fire arrows (unlit) 1.png,Rune fire arrows
+Steel fire arrows (unlit) 1.png,Steel fire arrows
+Mithril fire arrows (unlit) 1.png,Mithril fire arrows
+Adamant fire arrows (unlit) 1.png,Adamant fire arrows
+Dragon fire arrows (unlit) 1.png,Dragon fire arrows
+Dragon javelin.png,Dragon javelin
+Holy blessing.png,Holy blessing
+Peaceful blessing.png,Peaceful blessing
+Honourable blessing.png,Honourable blessing
+War blessing.png,War blessing
+Ancient blessing.png,Ancient blessing
+Amethyst arrow 1.png,Amethyst arrow
+Amethyst fire arrows (unlit) 1.png,Amethyst fire arrows
+Dragon bolts 1.png,Dragon bolts
+Diamond dragon bolts (e) 1.png,Diamond dragon bolts (e)
+Opal dragon bolts (e) 1.png,Opal dragon bolts (e)
+Jade dragon bolts (e) 1.png,Jade dragon bolts (e)
+Pearl dragon bolts (e) 1.png,Pearl dragon bolts (e)
+Topaz dragon bolts (e) 1.png,Topaz dragon bolts (e)
+Sapphire dragon bolts (e) 1.png,Sapphire dragon bolts (e)
+Emerald dragon bolts (e) 1.png,Emerald dragon bolts (e)
+Ruby dragon bolts (e) 1.png,Ruby dragon bolts (e)
+Dragonstone dragon bolts (e) 1.png,Dragonstone dragon bolts (e)
+Onyx dragon bolts (e) 1.png,Onyx dragon bolts (e)
+Opal dragon bolts 1.png,Opal dragon bolts
+Jade dragon bolts 1.png,Jade dragon bolts
+Pearl dragon bolts 1.png,Pearl dragon bolts
+Topaz dragon bolts 1.png,Topaz dragon bolts
+Sapphire dragon bolts 1.png,Sapphire dragon bolts
+Emerald dragon bolts 1.png,Emerald dragon bolts
+Ruby dragon bolts 1.png,Ruby dragon bolts
+Diamond dragon bolts 1.png,Diamond dragon bolts
+Dragonstone dragon bolts 1.png,Dragonstone dragon bolts
+Onyx dragon bolts 1.png,Onyx dragon bolts
+Bullet arrow 1.png,Bullet arrow
+Field arrow 1.png,Field arrow
+Blunt arrow 1.png,Blunt arrow
+Barbed arrow 1.png,Barbed arrow
+Rada's blessing 1.png,Rada's blessing 1
+Rada's blessing 2.png,Rada's blessing 2
+Rada's blessing 3.png,Rada's blessing 3
+Rada's blessing 4.png,Rada's blessing 4
+Adamant arrow 1.png,Adamant arrow
+Onyx bolts (e) 1.png,Onyx bolts (e)
+Mithril brutal 1.png,Mithril brutal
+Amethyst javelin.png,Amethyst javelin
+Unholy blessing.png,Unholy blessing
+Bone bolts 1.png,Bone bolts
+Amethyst broad bolts 1.png,Amethyst broad bolts

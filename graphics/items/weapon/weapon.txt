@@ -1,0 +1,409 @@
+Crossbow.png,Crossbow
+Bronze crossbow.png,Bronze crossbow
+Bronze thrownaxe.png,Bronze thrownaxe
+Iron pickaxe.png,Iron pickaxe
+Iron battleaxe.png,Iron battleaxe
+Iron dagger.png,Iron dagger
+Iron scimitar.png,Iron scimitar
+Iron sword.png,Iron sword
+Iron warhammer.png,Iron warhammer
+Iron hasta.png,Iron hasta
+Steel mace.png,Steel mace
+Steel sword.png,Steel sword
+Steel battleaxe.png,Steel battleaxe
+Steel pickaxe.png,Steel pickaxe
+Steel crossbow.png,Steel crossbow
+Steel thrownaxe.png,Steel thrownaxe
+Steel longsword.png,Steel longsword
+Steel knife.png,Steel knife
+Iron axe.png,Iron axe
+Mithril axe.png,Mithril axe
+Steel axe.png,Steel axe
+Black sword.png,Black sword
+Black battleaxe.png,Black battleaxe
+Black dagger.png,Black dagger
+Black mace.png,Black mace
+Black scimitar.png,Black scimitar
+Dragon scimitar.png,Dragon scimitar
+Adamant battleaxe.png,Adamant battleaxe
+Adamant crossbow.png,Adamant crossbow
+Adamant dagger.png,Adamant dagger
+Adamant dart.png,Adamant dart
+Adamant hasta.png,Adamant hasta
+Adamant axe.png,Adamant axe
+Adamant knife.png,Adamant knife
+Adamant longsword.png,Adamant longsword
+Adamant mace.png,Adamant mace
+Adamant pickaxe.png,Adamant pickaxe
+Adamant scimitar.png,Adamant scimitar
+Adamant sword.png,Adamant sword
+Adamant thrownaxe.png,Adamant thrownaxe
+Adamant warhammer.png,Adamant warhammer
+Ahrim's staff.png,Ahrim's staff
+Air battlestaff.png,Air battlestaff
+Anger battleaxe.png,Anger battleaxe
+Anger mace.png,Anger mace
+Anger sword.png,Anger sword
+Apprentice wand.png,Apprentice wand
+Bronze axe.png,Bronze axe
+Bronze dagger.png,Bronze dagger
+Bronze dart.png,Bronze dart
+Iron dart.png,Iron dart
+Bronze hasta.png,Bronze hasta
+Iron mace.png,Iron mace
+Iron sickle.png,Iron sickle
+Bronze mace.png,Bronze mace
+Iron thrownaxe.png,Iron thrownaxe
+Bronze pickaxe.png,Bronze pickaxe
+Mithril battleaxe.png,Mithril battleaxe
+Mithril dagger.png,Mithril dagger
+Mithril hasta.png,Mithril hasta
+Mithril knife.png,Mithril knife
+Mithril longsword.png,Mithril longsword
+Mithril mace.png,Mithril mace
+Mithril pickaxe.png,Mithril pickaxe
+Mithril sword.png,Mithril sword
+Mithril warhammer.png,Mithril warhammer
+Bronze sword.png,Bronze sword
+Bronze warhammer.png,Bronze warhammer
+Rune crossbow.png,Rune crossbow
+Rune dart.png,Rune dart
+Rune knife.png,Rune knife
+Rune longsword.png,Rune longsword
+Rune mace.png,Rune mace
+Rune pickaxe.png,Rune pickaxe
+Rune sword.png,Rune sword
+Steel dagger.png,Steel dagger
+Steel scimitar.png,Steel scimitar
+Steel warhammer.png,Steel warhammer
+Barb-tail harpoon.png,Barb-tail harpoon
+Battlestaff.png,Battlestaff
+Beginner wand.png,Beginner wand
+Blurite crossbow.png,Blurite crossbow
+Blurite sword.png,Blurite sword
+Bone spear.png,Bone spear
+Boxing gloves (red).png,Boxing gloves
+Brine sabre.png,Brine sabre
+Butterfly net.png,Butterfly net
+Cattleprod.png,Cattleprod
+Cleaver.png,Cleaver
+Dark dagger.png,Dark dagger
+Darklight.png,Darklight
+Dorgeshuun crossbow.png,Dorgeshuun crossbow
+Dragon battleaxe.png,Dragon battleaxe
+Dragon dagger.png,Dragon dagger
+Dragon dart.png,Dragon dart
+Dramen staff.png,Dramen staff
+Earth battlestaff.png,Earth battlestaff
+Egg whisk.png,Egg whisk
+Excalibur.png,Excalibur
+Falconer's glove.png,Falconer's glove
+Fire battlestaff.png,Fire battlestaff
+Fremennik blade.png,Fremennik blade
+Frying pan.png,Frying pan
+Gnomeball.png,Gnomeball
+Holy water.png,Holy water
+Iban's staff.png,Iban's staff
+Jade machete.png,Jade machete
+Keris.png,Keris
+Lava battlestaff.png,Lava battlestaff
+Magic butterfly net.png,Magic butterfly net
+Magic staff.png,Magic staff
+Maple blackjack(d).png,Maple blackjack(d)
+Mud battlestaff.png,Mud battlestaff
+Oak blackjack(o).png,Oak blackjack(o)
+Phoenix crossbow.png,Phoenix crossbow
+Rat pole.png,Rat pole
+Red chinchompa.png,Red chinchompa
+Red topaz machete.png,Red topaz machete
+Skewer.png,Skewer
+Skull sceptre.png,Skull sceptre
+Staff of earth.png,Staff of earth
+Staff of fire.png,Staff of fire
+Staff of air.png,Staff of air
+Staff of water.png,Staff of water
+Toktz-xil-ek.png,Toktz-xil-ek
+Toktz-xil-ul.png,Toktz-xil-ul
+Training sword.png,Training sword
+Void knight mace.png,Void knight mace
+White dagger.png,White dagger
+White longsword.png,White longsword
+White magic staff.png,White magic staff
+White scimitar.png,White scimitar
+Wolfbane.png,Wolfbane
+Zamorak staff.png,Zamorak staff
+Rune scimitar.png,Rune scimitar
+Blessed axe.png,Blessed axe
+Iron knife.png,Iron knife
+Rune axe.png,Rune axe
+Dragon axe.png,Dragon axe
+Mithril scimitar.png,Mithril scimitar
+Dragon longsword.png,Dragon longsword
+Rune dagger.png,Rune dagger
+Silver sickle.png,Silver sickle
+Tzhaar-ket-em.png,Tzhaar-ket-em
+Slayer's staff.png,Slayer's staff
+Rune thrownaxe.png,Rune thrownaxe
+Black knife.png,Black knife
+Mithril dart.png,Mithril dart
+Black dart.png,Black dart
+Iron crossbow.png,Iron crossbow
+Staff.png,Staff
+Dragon mace.png,Dragon mace
+White mace.png,White mace
+Lyre.png,Lyre
+Rune warhammer.png,Rune warhammer
+Mouse toy.png,Mouse toy
+Mith crossbow.png,Mith crossbow
+Silverlight.png,Silverlight
+Magic secateurs.png,Magic secateurs
+Rapier.png,Rapier
+Oak blackjack.png,Oak blackjack
+Willow blackjack(o).png,Willow blackjack(o)
+Maple blackjack(o).png,Maple blackjack(o)
+Oak blackjack(d).png,Oak blackjack(d)
+Willow blackjack(d).png,Willow blackjack(d)
+Willow blackjack.png,Willow blackjack
+Maple blackjack.png,Maple blackjack
+Black axe.png,Black axe
+Guthix staff.png,Guthix staff
+Saradomin staff.png,Saradomin staff
+Master wand.png,Master wand
+Lunar staff.png,Lunar staff
+Noose wand.png,Noose wand
+Karamjan monkey greegree.png,Karamjan monkey greegree
+White battleaxe.png,White battleaxe
+Teacher wand.png,Teacher wand
+Machete.png,Machete
+Scythe.png,Scythe
+Chinchompa.png,Chinchompa
+Silver sickle (b).png,Silver sickle (b)
+Wooden spoon.png,Wooden spoon
+Spork.png,Spork
+Rolling pin.png,Rolling pin
+Kitchen knife.png,Kitchen knife
+Meat tenderiser.png,Meat tenderiser
+Mystic fire staff.png,Mystic fire staff
+Rod of ivandis.png,Rod of ivandis
+Water battlestaff.png,Water battlestaff
+White sword.png,White sword
+White warhammer.png,White warhammer
+Rune hasta.png,Rune hasta
+Wooden sword.png,Wooden sword
+Saradomin crozier.png,Saradomin crozier
+Ancient mace.png,Ancient mace
+Beach boxing gloves (yellow).png,Beach boxing gloves
+Rubber chicken.png,Rubber chicken
+Cursed goblin staff.png,Cursed goblin staff
+Cursed goblin hammer.png,Cursed goblin hammer
+Cutthroat flag.png,Cutthroat flag
+Mystic water staff.png,Mystic water staff
+Mystic lava staff.png,Mystic lava staff
+Lucky cutlass.png,Lucky cutlass
+Armadyl crossbow.png,Armadyl crossbow
+Steam battlestaff.png,Steam battlestaff
+Mystic steam staff.png,Mystic steam staff
+Hunters' crossbow.png,Hunters' crossbow
+Staff of the dead.png,Staff of the dead
+Monkey talisman.png,Monkey talisman
+Trollweiss.png,Trollweiss
+Guilded smile flag.png,Guilded smile flag
+Bronze fist flag.png,Bronze fist flag
+Lucky shot flag.png,Lucky shot flag
+Treasure flag.png,Treasure flag
+Phasmatys flag.png,Phasmatys flag
+Glowing dagger.png,Glowing dagger
+Snowball 1.png,Snowball
+Mystic mud staff.png,Mystic mud staff
+Zamorakian hasta.png,Zamorakian hasta
+Mystic earth staff.png,Mystic earth staff
+Decorative sword (gold).png,Decorative sword (gold)
+Decorative sword (white).png,Decorative sword (white)
+Decorative sword (red).png,Decorative sword (red)
+Zamorak banner.png,Zamorak banner
+Saradomin banner.png,Saradomin banner
+Trident of the seas.png,Trident of the seas
+Zamorak crozier.png,Zamorak crozier
+Pugel.png,Pugel
+Dragon pickaxe.png,Dragon pickaxe
+Abyssal tentacle.png,Abyssal tentacle
+Black chinchompa.png,Black chinchompa
+Harry's cutlass.png,Harry's cutlass
+Smoke battlestaff.png,Smoke battlestaff
+Mystic smoke staff.png,Mystic smoke staff
+Easter basket.png,Easter basket
+Opal machete.png,Opal machete
+Black pickaxe.png,Black pickaxe
+3rd age wand.png,3rd age wand
+Dragon cane.png,Dragon cane
+Gilded scimitar.png,Gilded scimitar
+Royal sceptre.png,Royal sceptre
+Adamant cane.png,Adamant cane
+3rd age longsword.png,3rd age longsword
+Black cane.png,Black cane
+Rune cane.png,Rune cane
+Bandos crozier.png,Bandos crozier
+Ancient crozier.png,Ancient crozier
+Armadyl crozier.png,Armadyl crozier
+Iban's staff (u).png,Iban's staff (u)
+Ancient gorilla greegree.png,Ancient gorilla greegree
+Frozen abyssal whip.png,Frozen abyssal whip
+Volcanic abyssal whip.png,Volcanic abyssal whip
+Steam battlestaff (or).png,Steam battlestaff (or)
+Dragon pickaxe (or).png,Dragon pickaxe (or)
+Steam battlestaff (or).png,Mystic steam staff (or)
+Uncharged toxic trident.png,Trident of the swamp
+Wilderness sword 1.png,Wilderness sword 1
+Wilderness sword 2.png,Wilderness sword 2
+Wilderness sword 3.png,Wilderness sword 3
+Wilderness sword 4.png,Wilderness sword 4
+Western banner 4.png,Western banner 4
+Western banner 1.png,Western banner 1
+Western banner 2.png,Western banner 2
+Western banner 3.png,Western banner 3
+Infernal pickaxe.png,Infernal pickaxe
+Infernal axe.png,Infernal axe
+Zombie monkey greegree (small).png,Zombie monkey greegree (small)
+Zombie monkey greegree (big).png,Zombie monkey greegree (big)
+Ninja monkey greegree (small).png,Ninja monkey greegree (small)
+Ninja monkey greegree (medium).png,Ninja monkey greegree (medium)
+Gorilla greegree.png,Gorilla greegree
+Bearded gorilla greegree.png,Bearded gorilla greegree
+Abyssal dagger.png,Abyssal dagger
+Green banner.png,Green banner
+Undead chicken (item).png,Undead chicken (item)
+Assorted flowers.png,Assorted flowers
+Black flowers.png,Black flowers
+Blue flowers.png,Blue flowers
+Mixed flowers.png,Mixed flowers
+Purple flowers.png,Purple flowers
+Red flowers.png,Red flowers
+White flowers.png,White flowers
+Yellow flowers.png,Yellow flowers
+Dragon warhammer.png,Dragon warhammer
+Kruk monkey greegree.png,Kruk monkey greegree
+Arclight.png,Arclight
+Banner (Arrav).png,Banner (Arrav)
+Banner (Asgarnia).png,Banner (Asgarnia)
+Banner (Dorgeshuun).png,Banner (Dorgeshuun)
+Banner (Dragon).png,Banner (Dragon)
+Banner (Fairy).png,Banner (Fairy)
+Banner (Guthix).png,Banner (Guthix)
+Banner (HAM).png,Banner (HAM)
+Banner (Horse).png,Banner (Horse)
+Banner (Jogre).png,Banner (Jogre)
+Banner (Kandarin).png,Banner (Kandarin)
+Banner (Misthalin).png,Banner (Misthalin)
+Banner (Money).png,Banner (Money)
+Banner (Saradomin).png,Banner (Saradomin)
+Banner (Skull).png,Banner (Skull)
+Banner (Varrock).png,Banner (Varrock)
+Banner (Zamorak).png,Banner (Zamorak)
+Piscarilius banner.png,Piscarilius banner
+3rd age pickaxe.png,3rd age pickaxe
+Ale of the gods.png,Ale of the gods
+Crier bell.png,Crier bell
+Shayzien banner.png,Shayzien banner
+Lovakengj banner.png,Lovakengj banner
+Hosidius banner.png,Hosidius banner
+Arceuus banner.png,Arceuus banner
+Gilded hasta.png,Gilded hasta
+Dragon scimitar (or).png,Dragon scimitar (or)
+Clueless scroll.png,Clueless scroll
+Stale baguette.png,Stale baguette
+Bruma torch.png,Bruma torch
+Dust battlestaff.png,Dust battlestaff
+Mystic dust staff.png,Mystic dust staff
+Mystic mist staff.png,Mystic mist staff
+Killer's knife.png,Killer's knife
+Hunting knife.png,Hunting knife
+Dragon harpoon.png,Dragon harpoon
+Dragon sword.png,Dragon sword
+Dragon hunter crossbow.png,Dragon hunter crossbow
+Dragon thrownaxe.png,Dragon thrownaxe
+Kodai wand.png,Kodai wand
+Infernal harpoon.png,Infernal harpoon
+Dragon crossbow.png,Dragon crossbow
+Lava battlestaff (or).png,Lava battlestaff (or)
+Lava battlestaff (or).png,Mystic lava staff (or)
+Birthday balloons.png,Birthday balloons
+Slayer's staff (e).png,Slayer's staff (e)
+Skull sceptre.png,Skull sceptre (i)
+Hand fan.png,Hand fan
+Lunar staff - pt1.png,Lunar staff - pt1
+Lunar staff - pt2.png,Lunar staff - pt2
+Lunar staff - pt3.png,Lunar staff - pt3
+Granite longsword.png,Granite longsword
+Heat-proof vessel.png,Heat-proof vessel
+Granite hammer.png,Granite hammer
+Staff of light.png,Staff of light
+Uncharged trident (e).png,Trident of the seas (e)
+Uncharged toxic trident (e).png,Trident of the swamp (e)
+Prop sword.png,Prop sword
+Ghrazi rapier.png,Ghrazi rapier
+Sanguinesti staff (uncharged).png,Sanguinesti staff
+Starter sword.png,Starter sword
+Starter staff.png,Starter staff
+Peaceful handegg.png,Peaceful handegg
+Holy handegg.png,Holy handegg
+Chaotic handegg.png,Chaotic handegg
+Bryophyta's staff (uncharged).png,Bryophyta's staff
+Ivandis flail.png,Ivandis flail
+Emerald sickle (b).png,Emerald sickle (b)
+Enchanted emerald sickle (b).png,Enchanted emerald sickle (b)
+Dawnbringer.png,Dawnbringer
+Fox (Recruitment Drive).png,Fox (Recruitment Drive)
+Thammaron's sceptre (u).png,Thammaron's sceptre
+Viggora's chainmace (u).png,Viggora's chainmace
+Vesta's longsword.png,Vesta's longsword
+Statius's warhammer.png,Statius's warhammer
+Morrigan's throwing axe.png,Morrigan's throwing axe
+Morrigan's javelin.png,Morrigan's javelin
+Zuriel's staff.png,Zuriel's staff
+Mud pie.png,Mud pie
+Eek.png,Eek
+Dragon hasta.png,Dragon hasta
+Dragon knife.png,Dragon knife
+Dragon hunter lance.png,Dragon hunter lance
+Candy cane.png,Candy cane
+Cormorant's glove.png,Cormorant's glove
+Golden tench.png,Golden tench
+Pearl fly fishing rod.png,Pearl fly fishing rod
+Pearl barbarian rod.png,Pearl barbarian rod
+Pearl fishing rod.png,Pearl fishing rod
+Birthday cake.png,Birthday cake
+Guthix crozier.png,Guthix crozier
+Steel dart.png,Steel dart
+Steel hasta.png,Steel hasta
+Black longsword.png,Black longsword
+Ancient staff.png,Ancient staff
+Iron longsword.png,Iron longsword
+Bronze scimitar.png,Bronze scimitar
+Mithril thrownaxe.png,Mithril thrownaxe
+Bone club.png,Bone club
+Bone dagger.png,Bone dagger
+Mystic air staff.png,Mystic air staff
+Toktz-xil-ak.png,Toktz-xil-ak
+Enchanted lyre.png,Enchanted lyre
+Leaf-bladed sword.png,Leaf-bladed sword
+Toxic staff (uncharged).png,Toxic staff of the dead
+Black warhammer.png,Black warhammer
+Abyssal whip.png,Abyssal whip
+Orange flowers.png,Orange flowers
+Zombie head (Treasure Trails).png,Zombie head (Treasure Trails)
+Mist battlestaff.png,Mist battlestaff
+Leaf-bladed battleaxe.png,Leaf-bladed battleaxe
+Bronze longsword.png,Bronze longsword
+Oily pearl fishing rod.png,Oily pearl fishing rod
+3rd age axe.png,3rd age axe
+Rune battleaxe.png,Rune battleaxe
+Bronze knife.png,Bronze knife
+Rain bow.png,Rain bow
+Ham joint.png,Ham joint
+Staff of bob the cat.png,Staff of bob the cat
+Gilded pickaxe.png,Gilded pickaxe
+Gilded axe.png,Gilded axe
+3rd age druidic staff.png,3rd age druidic staff
+Rune scimitar (guthix).png,Rune scimitar (guthix)
+Rune scimitar (saradomin).png,Rune scimitar (saradomin)
+Rune scimitar (zamorak).png,Rune scimitar (zamorak)

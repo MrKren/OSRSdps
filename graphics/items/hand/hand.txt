@@ -1,0 +1,127 @@
+Dragon gloves.png,Dragon gloves
+Black gloves.png,Black gloves
+Blue spiky vambs.png,Blue spiky vambs
+Bracelet of clay.png,Bracelet of clay
+Castle wars bracelet.png,Castle wars bracelet
+Chaos gauntlets.png,Chaos gauntlets
+Cooking gauntlets.png,Cooking gauntlets
+Crab claw.png,Crab claw
+Diamond bracelet.png,Diamond bracelet
+Emerald bracelet.png,Emerald bracelet
+Ghostly gloves.png,Ghostly gloves
+Gloves of silence.png,Gloves of silence
+Gold bracelet.png,Gold bracelet
+Goldsmith gauntlets.png,Goldsmith gauntlets
+Ice gloves.png,Ice gloves
+Infinity gloves.png,Infinity gloves
+Inoculation bracelet.png,Inoculation bracelet
+Karamja gloves 1.png,Karamja gloves 1
+Karamja gloves 2.png,Karamja gloves 2
+Klank's gauntlets.png,Klank's gauntlets
+Mime gloves.png,Mime gloves
+Onyx bracelet.png,Onyx bracelet
+Pirate's hook.png,Pirate's hook
+Regen bracelet.png,Regen bracelet
+Ruby bracelet.png,Ruby bracelet
+Skeleton gloves.png,Skeleton gloves
+Slayer gloves.png,Slayer gloves
+Snakeskin vambraces.png,Snakeskin vambraces
+Leather gloves.png,Leather gloves
+Barrows gloves.png,Barrows gloves
+Red d'hide vamb.png,Red d'hide vamb
+Black d'hide vamb.png,Black d'hide vamb
+Green d'hide vamb.png,Green d'hide vamb
+Steel gloves.png,Steel gloves
+Iron gloves.png,Iron gloves
+Karamja gloves 3.png,Karamja gloves 3
+Bronze gloves.png,Bronze gloves
+Splitbark gauntlets.png,Splitbark gauntlets
+Rune gloves.png,Rune gloves
+Karamja gloves 4.png,Karamja gloves 4
+Blue d'hide vamb.png,Blue d'hide vamb
+Steel gauntlets.png,Steel gauntlets
+Black spiky vambs.png,Black spiky vambs
+Mithril gloves.png,Mithril gloves
+Leather vambraces.png,Leather vambraces
+Adamant gloves.png,Adamant gloves
+Sapphire bracelet.png,Sapphire bracelet
+Abyssal bracelet.png,Abyssal bracelet
+White gloves.png,White gloves
+Mystic gloves (light).png,Mystic gloves (light)
+Void knight gloves.png,Void knight gloves
+Ham gloves.png,Ham gloves
+Spined gloves.png,Spined gloves
+Rock-shell gloves.png,Rock-shell gloves
+Graceful gloves.png,Graceful gloves
+Lunar gloves,Lunar gloves
+Fremennik gloves.png,Fremennik gloves
+Skeletal gloves.png,Skeletal gloves
+Rogue gloves.png,Rogue gloves
+Saradomin bracers.png,Saradomin bracers
+Guthix bracers.png,Guthix bracers
+Red spiky vambs.png,Red spiky vambs
+Mourner gloves,Mourner gloves
+Mystic gloves (dark).png,Mystic gloves (dark)
+Hardleather gloves.png,Hardleather gloves
+Crabclaw hook.png,Crabclaw hook
+Dragonstone bracelet.png,Dragonstone bracelet
+Zombie gloves.png,Zombie gloves
+Moonclan gloves.png,Moonclan gloves
+Green spiky vambs.png,Green spiky vambs
+Villager armband (brown).png,Villager armband (brown)
+Villager armband (blue).png,Villager armband (blue)
+Villager armband (yellow).png,Villager armband (yellow)
+Villager armband (pink).png,Villager armband (pink)
+Purple gloves.png,Purple gloves
+Ancient bracers.png,Ancient bracers
+Armadyl bracers.png,Armadyl bracers
+Bandos bracers.png,Bandos bracers
+Mystic gloves.png,Mystic gloves
+Spiky vambraces.png,Spiky vambraces
+Santa gloves.png,Santa gloves
+Antisanta gloves.png,Antisanta gloves
+Cow gloves.png,Cow gloves
+Grey gloves.png,Grey gloves
+Red gloves.png,Red gloves
+Yellow gloves.png,Yellow gloves
+Teal gloves.png,Teal gloves
+Gravedigger gloves.png,Gravedigger gloves
+Shayzien gloves (1).png,Shayzien gloves (1)
+Shayzien gloves (2).png,Shayzien gloves (2)
+Shayzien gloves (3).png,Shayzien gloves (3)
+Shayzien gloves (4).png,Shayzien gloves (4)
+Shayzien gloves (5).png,Shayzien gloves (5)
+Bunny paws.png,Bunny paws
+Zenyte bracelet.png,Zenyte bracelet
+Clue hunter gloves.png,Clue hunter gloves
+Samurai gloves.png,Samurai gloves
+Mummy's hands.png,Mummy's hands
+Ankou gloves.png,Ankou gloves
+Gloves of darkness.png,Gloves of darkness
+Ranger gloves.png,Ranger gloves
+Holy wraps.png,Holy wraps
+Dark tuxedo cuffs.png,Dark tuxedo cuffs
+Light tuxedo cuffs.png,Light tuxedo cuffs
+Warm gloves.png,Warm gloves
+Expeditious bracelet.png,Expeditious bracelet
+Opal bracelet.png,Opal bracelet
+Jade bracelet.png,Jade bracelet
+Topaz bracelet.png,Topaz bracelet
+Bracelet of slaughter.png,Bracelet of slaughter
+Flamtaer bracelet.png,Flamtaer bracelet
+Mining gloves.png,Mining gloves
+Superior mining gloves.png,Superior mining gloves
+Expert mining gloves.png,Expert mining gloves
+Granite gloves.png,Granite gloves
+Bracelet of ethereum (uncharged).png,Bracelet of ethereum
+Snow imp costume gloves.png,Snow imp costume gloves
+Ferocious gloves.png,Ferocious gloves
+Mystic gloves (dusk).png,Mystic gloves (dusk)
+Ornate gloves.png,Ornate gloves
+Zamorak bracers.png,Zamorak bracers
+3rd age vambraces.png,3rd age vambraces
+Tormented bracelet.png,Tormented bracelet
+Penance gloves.png,Penance gloves
+Combat bracelet (uncharged).png,Combat bracelet
+Gilded d'hide vambs.png,Gilded d'hide vambs
+Tormented bracelet (or).png,Tormented bracelet (or)
